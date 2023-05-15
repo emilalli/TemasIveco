@@ -8597,13 +8597,13 @@ div[data-qid="0a21fed4-dde5-4547-b873-40e25a31b306"]{
     height: 45px !important;
     margin-top:-5px;
 }
-div [data-qid="jjVfmJg"] .qv-object-qsstatistic .center-aligned-items {
+#css-jjVfmJg .qv-object-qsstatistic .center-aligned-items {
     overflow: hidden;
 }
-#css-jjVfmJg .statistic-1 .ui.one.mini.statistics .ui.mini.statistic .label {
+/*#css-jjVfmJg .statistic-1 .ui.one.mini.statistics .ui.mini.statistic .label {
     font-size: 80%;
   
-}
+}*/
 div [data-qid="jjVfmJg"] .qv-object .qv-inner-object{
 	background-color: #f2f2f2 !important;
 	padding-left: 0px !important;
