@@ -7708,6 +7708,11 @@ div [tid="de1844fe-cd94-4b3f-8b1c-416b08ee7808"] .qv-object .qv-object-content-c
 	position: unset !important;
 	height: 100% !important;
 }
+
+#mLrPaT_content .qs-container .qsc-root .qsc-item-wrapper.hide-border .qsc-item .qv-object-wrapper .qv-object-qlik-variable-input .qv-inner-object.no-titles .qv-object-content-container .qv-object-content > div .qlik .qui-select.lui-select {
+    border-color: #FFFFFF !important;
+  }
+
 #65ab34ec-d200-4241-b0b4-3efc0dcdd16b_content .qui-select.lui-select  {   
   background-color: #FFFFFF !important;
   border: none !important;
