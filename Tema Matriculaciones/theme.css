@@ -4,13 +4,13 @@ div#grid.single-full-height >article#content{
 
 /*Dashboard*/
 /*multi KPI oculto*/
-div[tid="ERMKT"] .qv-inner-object, div[tid="jbvPpx"] .qv-inner-object, div[tid="xvJZ"] .qv-inner-object
+div[data-qid="ERMKT"] .qv-inner-object, div[data-qid="jbvPpx"] .qv-inner-object, div[data-qid="xvJZ"] .qv-inner-object
 {
 padding:0 !important;
 background: none  !important
 }
-div[tid="ERMKT"] .qsc-item, div[tid="jbvPpx"] .qsc-item, div[tid="xvJZ"] .qsc-item,
-div[tid="ERMKT"] .qv-layout-spark, div[tid="jbvPpx"] .qv-layout-spark, div[tid="xvJZ"] .qv-layout-spark
+div[data-qid="ERMKT"] .qsc-item, div[data-qid="jbvPpx"] .qsc-item, div[data-qid="xvJZ"] .qsc-item,
+div[data-qid="ERMKT"] .qv-layout-spark, div[data-qid="jbvPpx"] .qv-layout-spark, div[data-qid="xvJZ"] .qv-layout-spark
 {
 border:0 !important
 }
@@ -742,7 +742,7 @@ div[data-qid="rAeDLJQ"]{
 .qui-select.lui-select{  border: 2px solid #26A0A7 !important;
     border-radius: 4px !important;}
 
-  div[tid="gYV"] {
+  div[data-qid="gYV"] {
         height: 36% !important;
 }
 
@@ -1350,7 +1350,7 @@ div[data-qid="XgpbeX"]{
 #css-dea7f015-7d99-49a5-9b6e-b5b22e39fe41 .label *{
 	font-size:120% !important;
 }
-  div[tid="ZgDLj"]{
+  div[data-qid="ZgDLj"]{
         height: 36% !important;
 }
 
@@ -1950,7 +1950,7 @@ div[data-qid="vCEyM"]{
 #css-d4f94714-823b-4161-9ac4-e3f522bd7ac6 .label *{
 	font-size:120% !important;
 }
-  div[tid="AjWC"]{
+  div[data-qid="AjWC"]{
         height: 36% !important;
 }
 
@@ -2557,7 +2557,7 @@ div[data-qid="AHcQJP"]{
 #css-f9e545b0-d9cc-42ee-843d-4d4ee4a8ad2c .label *{
 	font-size:120% !important;
 }
-  div[tid="nctZfS"]{
+  div[data-qid="nctZfS"]{
         height: 36% !important;
 }
 
@@ -2748,10 +2748,10 @@ align-items: center;
 	font-size:120% !important;
 }
 
-div [tid="HwjySSq"] .statistic-0  .ui.one.mini.statistics .ui.mini.statistic .label {
+div [data-qid="HwjySSq"] .statistic-0  .ui.one.mini.statistics .ui.mini.statistic .label {
 margin-top: -5px;
 }
-div [tid="HwjySSq"] .statistic-1  .ui.one.mini.statistics .ui.mini.statistic .label {
+div [data-qid="HwjySSq"] .statistic-1  .ui.one.mini.statistics .ui.mini.statistic .label {
 margin-top: -5px;
 }
 
@@ -7535,20 +7535,20 @@ text-align: center;
 	font-size:120% !important;
 }
 
-div [tid="470d7926-71e6-46e6-906b-ea29c003f7fe"] .qv-object-qlik-variable-input{
+div [data-qid="470d7926-71e6-46e6-906b-ea29c003f7fe"] .qv-object-qlik-variable-input{
 border: 2px solid #26A0A7 !important;
 border-radius: 4px !important;
 }
-div[tid="uJarkr"] .qv-inner-object, div[tid="vZ"] .qv-inner-object,
-div[tid="bkNGC"] .qv-inner-object
+div[data-qidd="uJarkr"] .qv-inner-object, div[data-qid="vZ"] .qv-inner-object,
+div[data-qid="bkNGC"] .qv-inner-object
 {
 padding:0 !important;
 background: none  !important
 }
-div[tid="uJarkr"] .qsc-item, div[tid="vZ"] .qsc-item,
-div[tid="bkNGC"] .qsc-item,
-div[tid="uJarkr"] .qv-layout-spark, div[tid="vZ"] .qv-layout-spark,
-div[tid="bkNGC"] .qv-layout-spark
+div[data-qid="uJarkr"] .qsc-item, div[data-qid="vZ"] .qsc-item,
+div[data-qid="bkNGC"] .qsc-item,
+div[data-qid="uJarkr"] .qv-layout-spark, div[data-qid="vZ"] .qv-layout-spark,
+div[data-qid="bkNGC"] .qv-layout-spark
 {
 border:0 !important
 }
