@@ -1,4 +1,8 @@
- /*Dashboard*/
+div#grid.single-full-height >article#content{
+    background-color: #f2f2f2 !important;
+}
+
+/*Dashboard*/
 /*multi KPI oculto*/
 div[tid="ERMKT"] .qv-inner-object, div[tid="jbvPpx"] .qv-inner-object, div[tid="xvJZ"] .qv-inner-object
 {
