@@ -2,7 +2,7 @@ div#grid.single-full-height >article#content{
     background-color: #f2f2f2 !important;
 }
 
- /*Dashboard*/
+/*Dashboard*/
 /*multi KPI oculto*/
 div[tid="ERMKT"] .qv-inner-object, div[tid="jbvPpx"] .qv-inner-object, div[tid="xvJZ"] .qv-inner-object
 {
@@ -7555,13 +7555,13 @@ border:0 !important
 
 
                                                 /*Range Detail*/
-div[tid="mFfWkT"] .qv-inner-object, div[tid="ysvEV"] .qv-inner-object, div[tid="PhJJnU"] .qv-inner-object
+div[data-qid="mFfWkT"] .qv-inner-object, div[data-qid="ysvEV"] .qv-inner-object, div[data-qid="PhJJnU"] .qv-inner-object
 {
 padding:0 !important;
 background: none  !important
 }
-div[tid="mFfWkT"] .qsc-item, div[tid="ysvEV"] .qsc-item, div[tid="PhJJnU"] .qsc-item,
-div[tid="mFfWkT"] .qv-layout-spark, div[tid="ysvEV"] .qv-layout-spark, div[tid="PhJJnU"] .qv-layout-spark
+div[data-qid="mFfWkT"] .qsc-item, div[data-qid="ysvEV"] .qsc-item, div[data-qid="PhJJnU"] .qsc-item,
+div[data-qid="mFfWkT"] .qv-layout-spark, div[data-qid="ysvEV"] .qv-layout-spark, div[data-qid="PhJJnU"] .qv-layout-spark
 {
 border:0 !important
 }
@@ -7695,10 +7695,10 @@ div	[data-qid="AKjHCFp"] .qui-select.lui-select {
 text-align: center;
 }
 
-div [tid="c309169e-cf02-4017-8392-05d41bceb50b"] .qv-object .qv-object-content{
+div [data-qid="c309169e-cf02-4017-8392-05d41bceb50b"] .qv-object .qv-object-content{
     margin-top:-5px;
 }
-div [tid="c309169e-cf02-4017-8392-05d41bceb50b"] .qv-object .qv-object-content-container{
+div [data-qid="c309169e-cf02-4017-8392-05d41bceb50b"] .qv-object .qv-object-content-container{
 	position: unset !important;
 	height: 100% !important;
 }
@@ -7717,10 +7717,10 @@ div [tid="c309169e-cf02-4017-8392-05d41bceb50b"] .qv-object .qv-object-content-c
 	height: 100% !important;
 }
 
-div [tid="de1844fe-cd94-4b3f-8b1c-416b08ee7808"] .qv-object .qv-object-content{
+div [data-qid="de1844fe-cd94-4b3f-8b1c-416b08ee7808"] .qv-object .qv-object-content{
     margin-top:-5px;
 }
-div [tid="de1844fe-cd94-4b3f-8b1c-416b08ee7808"] .qv-object .qv-object-content-container{
+div [data-qid="de1844fe-cd94-4b3f-8b1c-416b08ee7808"] .qv-object .qv-object-content-container{
 	position: unset !important;
 	height: 100% !important;
 }
