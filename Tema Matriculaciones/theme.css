@@ -2,7 +2,7 @@ div#grid.single-full-height >article#content{
     background-color: #f2f2f2 !important;
 }
 
-/*Dashboard*/
+ /*Dashboard*/
 /*multi KPI oculto*/
 div[tid="ERMKT"] .qv-inner-object, div[tid="jbvPpx"] .qv-inner-object, div[tid="xvJZ"] .qv-inner-object
 {
@@ -7539,6 +7539,19 @@ div [tid="470d7926-71e6-46e6-906b-ea29c003f7fe"] .qv-object-qlik-variable-input{
 border: 2px solid #26A0A7 !important;
 border-radius: 4px !important;
 }
+div[tid="uJarkr"] .qv-inner-object, div[tid="vZ"] .qv-inner-object,
+div[tid="bkNGC"] .qv-inner-object
+{
+padding:0 !important;
+background: none  !important
+}
+div[tid="uJarkr"] .qsc-item, div[tid="vZ"] .qsc-item,
+div[tid="bkNGC"] .qsc-item,
+div[tid="uJarkr"] .qv-layout-spark, div[tid="vZ"] .qv-layout-spark,
+div[tid="bkNGC"] .qv-layout-spark
+{
+border:0 !important
+}
 
 
                                                 /*Range Detail*/
@@ -7955,21 +7968,21 @@ opacity: 0 !important;
 
 
                                                  /*Market*/
-:is(div[tid="MggMfPW"], div[tid="XbhKqQa"], div[tid="LfLhEJ"]) .qv-inner-object
+:is(div[data-qid="MggMfPW"], div[data-qid="XbhKqQa"], div[data-qid="LfLhEJ"]) .qv-inner-object
 {
 padding:0 !important;
 background: none  !important;
 padding: none !important;
 margin-bottom: -1px !important
 }
-:is(div[tid="MggMfPW"], div[tid="XbhKqQa"], div[tid="LfLhEJ"]) .qsc-item,
-:is(div[tid="MggMfPW"], div[tid="XbhKqQa"], div[tid="LfLhEJ"]) .qv-layout-spark
+:is(div[data-qid="MggMfPW"], div[data-qid="XbhKqQa"], div[data-qid="LfLhEJ"]) .qsc-item,
+:is(div[data-qid="MggMfPW"], div[data-qid="XbhKqQa"], div[data-qid="LfLhEJ"]) .qv-layout-spark
 {
 border: none !important;
 }
 
 
-div[tid="PzEwDB"] {
+div[data-qid="PzEwDB"] {
 opacity: 0 !important;
 }
 
@@ -8025,7 +8038,7 @@ border: none !important;
 .qv-panel-sheet .sheet-title-container{
 background: url("https://ivecosop.eu.qlikcloud.com/api/v1/apps/10dc4a5f-89ca-473f-b302-3acaa60c57cd/media/files/Banner%20emi.png") !important;
 background-repeat: no-repeat !important;
-background-attachment: ;
+background-attachment:;
 background-position: centered;
 background-size: cover !important;
 border-bottom: none !important;
