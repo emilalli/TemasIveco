@@ -184,17 +184,17 @@ div [data-qid="knLYmhn"] .qv-object .qv-object-content-container{
 text-align: center;
 }
 
-div [tid="KXjGJ"] .qv-object .qv-object-content{
+div [data-qid="KXjGJ"] .qv-object .qv-object-content{
     margin-top:-5px;
 }
-div [tid="KXjGJ"] .qv-object .qv-object-content-container{
+div [data-qid="KXjGJ"] .qv-object .qv-object-content-container{
 	position: unset !important;
 	height: 100% !important;
 }
 
                                                  /*Dealer View*/
 /* multi kpi oculto */
-div[tid="fVPt"] {
+div[data-qid="fVPt"] {
     opacity: 0 !important;
 }
 
@@ -228,19 +228,19 @@ div [tid="bbfa488f-3080-403f-af15-ad6d16041df4"] .qui-select.lui-select {
 } 
 */
 /* selector real/real+forecast */
-div [tid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qv-object .qv-inner-object{
+div [data-qid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qv-object .qv-inner-object{
 	background-color: #f2f2f2 !important;
 	padding-left: 0px !important;
 }
 
-div [tid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qv-object{
+div [data-qid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qv-object{
 	border: none !important;
 }
 
-div [tid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qv-object .qv-object-content{
+div [data-qid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qv-object .qv-object-content{
     margin-top:-5px;
 }
-div [tid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qv-object .qv-object-content-container{
+div [data-qid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qv-object .qv-object-content-container{
 	position: unset !important;
 	height: 100% !important;
 }
@@ -251,36 +251,36 @@ div [tid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qv-object .qv-object-content-c
 #f2bed2c2-9b50-40df-9264-1957a863b6e0_content select *{
     color: #00336f;
 }
-div [tid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qui-select.lui-select {  
+div [data-qid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qui-select.lui-select {  
     color: #00336f;
     /* border: 2px solid rgb(38 160 167 / 50%) !important; */
     border-radius: 4px !important;
     background-color: white !important;
 }
 /* selector hojas */
-div [tid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qv-object .qv-inner-object{
+div [data-qid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qv-object .qv-inner-object{
 	background-color: #f2f2f2 !important;
 	padding-left: 0px !important;
 }
 
-div [tid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qv-object{
+div [data-qid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qv-object{
 	border: none !important;
 }
 
-div [tid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qv-object .qv-object-content{
+div [data-qid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qv-object .qv-object-content{
     margin-top:-5px;
 }
-div [tid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qv-object .qv-object-content-container{
+div [data-qid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qv-object .qv-object-content-container{
 	position: unset !important;
 	height: 100% !important;
 }
-div [tid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qui-select.lui-select {  
+div [data-qid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qui-select.lui-select {  
   color: #00336f;
   border: 2px solid rgb(38 160 167 / 50%) !important;
   border-radius: 4px !important;
   background-color: rgb(38 161 167/ 33%) !important;
 }
-div [tid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] select *{
+div [data-qid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] select *{
     color: #00336f;
 }
 /* botones hoja */
