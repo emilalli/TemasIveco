@@ -192,6 +192,18 @@ div [data-qid="KXjGJ"] .qv-object .qv-object-content-container{
 	height: 100% !important;
 }
 
+/* multi kpi oculto */
+div[data-qid="UJpJSu"] {
+    opacity: 0 !important;
+}
+#sheet-title .sheet-title-logo-img {
+    align-items: center  !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    height: 36px !important;
+    max-width: 1900px !important; 
+    overflow: hidden !important;
+}
                                                  /*Dealer View*/
 /* multi kpi oculto */
 div[data-qid="fVPt"] {
