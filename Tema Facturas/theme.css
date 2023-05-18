@@ -1,3 +1,4 @@
+/*Iveco View*/
 div[tid="SuVZWcd"] {
     opacity: 0 !important;
 }
@@ -36,19 +37,19 @@ div [tid="KJnvHR"] .qui-select.lui-select {
     background-color: white !important;
   } */
 /* selector real/real+forecast */
-div [tid="knLYmhn"] .qv-object .qv-inner-object{
+div [data-qid="knLYmhn"] .qv-object .qv-inner-object{
 	background-color: #f2f2f2 !important;
 	padding-left: 0px !important;
 }
 
-div [tid="knLYmhn"] .qv-object{
+div [data-qid="knLYmhn"] .qv-object{
 	border: none !important;
 }
 
-div [tid="knLYmhn"] .qv-object .qv-object-content{
+div [data-qid="knLYmhn"] .qv-object .qv-object-content{
     margin-top:-5px;
 }
-div [tid="knLYmhn"] .qv-object .qv-object-content-container{
+div [data-qid="knLYmhn"] .qv-object .qv-object-content-container{
 	position: unset !important;
 	height: 100% !important;
 }
@@ -59,7 +60,7 @@ div [tid="knLYmhn"] .qv-object .qv-object-content-container{
 #knLYmhn_content select *{
     color: #00336f;
 }
-div [tid="knLYmhn"] .qui-select.lui-select {  
+div [data-qid="knLYmhn"] .qui-select.lui-select {  
     color: #00336f;
     /* border: 2px solid rgb(38 160 167 / 50%) !important; */
     border-radius: 4px !important;
@@ -147,20 +148,20 @@ div.qv-inner-object.no-titles button *{
 div#css-xmQYEF .qv-object-qsstatistic{
     background-color: #f2f2f2 !important;
 }
-div [tid="knLYmhn"] .qv-object .qv-inner-object{
+div [data-qid="knLYmhn"] .qv-object .qv-inner-object{
 	background-color: #f2f2f2 !important;
 	padding-left: 0px !important;
     padding-top: 3px !important;
 }
 
-div [tid="knLYmhn"] .qv-object{
+div [data-qid="knLYmhn"] .qv-object{
 	border: none !important;
 }
 
-div [tid="knLYmhn"] .qv-object .qv-object-content{
+div [data-qid="knLYmhn"] .qv-object .qv-object-content{
     margin-top:-5px;
 }
-div [tid="knLYmhn"] .qv-object .qv-object-content-container{
+div [data-qid="knLYmhn"] .qv-object .qv-object-content-container{
 	position: unset !important;
 	height: 100% !important;
 }
