@@ -1,0 +1,426 @@
+div[tid="SuVZWcd"] {
+    opacity: 0 !important;
+}
+
+div[data-qid="SuVZWcd"] {
+    opacity: 0 !important;
+}
+
+
+/* selector col pendings */
+/* div [tid="KJnvHR"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [tid="KJnvHR"] .qv-object{
+	border: none !important;
+}
+
+div [tid="KJnvHR"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="KJnvHR"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+#KJnvHR_content select{
+    color: #00336f;
+}
+#KJnvHR_content select *{
+    color: #00336f;
+}
+div [tid="KJnvHR"] .qui-select.lui-select {  
+    color: #00336f;
+    border-radius: 4px !important;
+    background-color: white !important;
+  } */
+/* selector real/real+forecast */
+div [tid="knLYmhn"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [tid="knLYmhn"] .qv-object{
+	border: none !important;
+}
+
+div [tid="knLYmhn"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="knLYmhn"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+
+#knLYmhn_content select{
+    color: #00336f;
+}
+#knLYmhn_content select *{
+    color: #00336f;
+}
+div [tid="knLYmhn"] .qui-select.lui-select {  
+    color: #00336f;
+    /* border: 2px solid rgb(38 160 167 / 50%) !important; */
+    border-radius: 4px !important;
+    background-color: white !important;
+  }
+/* selector hojas */
+div [data-qid="JZGAXsf"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [data-qid="JZGAXsf"] .qv-object{
+	border: none !important;
+}
+
+div [data-qid="JZGAXsf"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [data-qid="JZGAXsf"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [data-qid="JZGAXsf"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [data-qid="JZGAXsf"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+/*borde inferior botones*/
+#jLsQB_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#ZdKdrV_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#mUjPv_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#mgUhMh_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#jgDvj_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#mgxWYkf_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#GPsUj_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#YmCqRkJ_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#JpxmnNv_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#bpmGEW_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#c2c908e1-596b-46e9-a86c-446ac40550ae_content .ng-scope button span{
+    color:white !important;
+    }
+/*CONTAINER selector pendings*/
+div#css-xmQYEF .qv-object-qsstatistic{
+    background-color: #f2f2f2 !important;
+}
+div [tid="knLYmhn"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+    padding-top: 3px !important;
+}
+
+div [tid="knLYmhn"] .qv-object{
+	border: none !important;
+}
+
+div [tid="knLYmhn"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="knLYmhn"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+/*SELECTOR PENDINGS*/
+
+#KXjGJ_content .qui-select.lui-select {   
+  background-color: white !important;
+}
+
+#KXjGJ_content .qv-object .qv-object-content{
+    margin-top:-5px !important;
+}
+
+#KXjGJ_content .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+
+.qv-collapsed-listbox .title-wrapper .title {
+text-align: center;
+}
+
+div [tid="KXjGJ"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="KXjGJ"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+
+                                                 /*Dealer View*/
+/* multi kpi oculto */
+div[tid="fVPt"] {
+    opacity: 0 !important;
+}
+
+/* selector col pendings */
+/* div [tid="bbfa488f-3080-403f-af15-ad6d16041df4"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [tid="bbfa488f-3080-403f-af15-ad6d16041df4"] .qv-object{
+	border: none !important;
+}
+
+div [tid="bbfa488f-3080-403f-af15-ad6d16041df4"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="bbfa488f-3080-403f-af15-ad6d16041df4"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+#bbfa488f-3080-403f-af15-ad6d16041df4_content select{
+    color: #00336f;
+}
+#bbfa488f-3080-403f-af15-ad6d16041df4_content select *{
+    color: #00336f;
+}
+div [tid="bbfa488f-3080-403f-af15-ad6d16041df4"] .qui-select.lui-select {  
+    color: #00336f;
+    border-radius: 4px !important;
+    background-color: white !important;
+} 
+*/
+/* selector real/real+forecast */
+div [tid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [tid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qv-object{
+	border: none !important;
+}
+
+div [tid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+
+#f2bed2c2-9b50-40df-9264-1957a863b6e0_content select{
+    color: #00336f;
+}
+#f2bed2c2-9b50-40df-9264-1957a863b6e0_content select *{
+    color: #00336f;
+}
+div [tid="f2bed2c2-9b50-40df-9264-1957a863b6e0"] .qui-select.lui-select {  
+    color: #00336f;
+    /* border: 2px solid rgb(38 160 167 / 50%) !important; */
+    border-radius: 4px !important;
+    background-color: white !important;
+}
+/* selector hojas */
+div [tid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [tid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qv-object{
+	border: none !important;
+}
+
+div [tid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [tid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [tid="ed032f8c-3c23-4234-905f-f2c32ed6657b"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+/*borde inferior botones*/
+#YkNx_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#CswXd_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#EABWmJ_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#mHfchkF_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#CcaxhHc_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#b5399b6f-08e1-47af-bfd2-c27c98d3e7d4_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#ba452da6-5912-4e21-b0bf-f5cd9cee54d4_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#cbKcpa_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#xvVdpw_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#pPrmmQa_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#rLYvMG_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#cc521e4d-ca43-4df4-8762-c652119656c7_content .ng-scope button span{
+    color:white !important;
+    }
+/*CONTAINER selector pendings*/
+div#css-d63833b3-49f1-48d4-8f0f-f208e7e4a5d1 .qv-object-qsstatistic{
+    background-color: #f2f2f2 !important;
+}
+div [tid="urJdHEp"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+    padding-top: 3px !important;
+}
+
+div [tid="urJdHEp"] .qv-object{
+	border: none !important;
+}
+
+div [tid="urJdHEp"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="urJdHEp"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+/*SELECTOR PENDINGS*/
+
+#ae81f3a1-cd23-46e6-8345-83dd56c70088_content .qui-select.lui-select {   
+  background-color: white !important;
+}
+
+#ae81f3a1-cd23-46e6-8345-83dd56c70088_content .qv-object .qv-object-content{
+    margin-top:-5px !important;
+}
+
+#ae81f3a1-cd23-46e6-8345-83dd56c70088_content .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+
+.qv-collapsed-listbox .title-wrapper .title {
+text-align: center;
+}
+
+div [tid="ae81f3a1-cd23-46e6-8345-83dd56c70088"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="ae81f3a1-cd23-46e6-8345-83dd56c70088"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+
+/*Ocultar checkbox*/
+
+div[tid="JpLQn"] .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+div[tid="JpLQn"] .qsc-item, div[tid="JpLQn"] .qv-layout-spark
+{
+border: none !important;
+}
+
+
+div[tid="JpLQn"] .qv-layout-spark
+{
+border-color: #00000000 !important;
+}
+div[tid="JpLQn"] .qsc-item .ng-scope button
+{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+/*FILTROS OCULTABLES*/
+:is(div[tid="LPuXQT"]) .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+
+:is(div[tid="LPuXQT"]) .qsc-item,
+:is(div[tid="LPuXQT"]) .qv-layout-spark
+{
+border: none !important;
+}
