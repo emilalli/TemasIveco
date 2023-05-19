@@ -1,14 +1,18 @@
-    /*Dashboard*/
-& .qv-object-qsstatistic {
+div#grid.single-full-height >article#content{
+    background-color: #f2f2f2 !important;
+    padding: 0px 10px !important;
+}
+/*Dashboard*/
+
+div[data-qid="7381476e-5959-412a-a610-c50df993ed49"] .qv-object-qsstatistic {
     width: auto !important;
     height: 96% !important;
     border: 2px solid #1554FF !important;
     border-radius: 20px 20px 20px 20px !important;
     background-color: rgba(0, 0, 255, 0.07) !important;
 }
-& .label {
+div[data-qid="7381476e-5959-412a-a610-c50df993ed49"] .label {
     font-size: 1.1rem !important;
-
 }
 
 & .qv-object-qsstatistic {
@@ -147,41 +151,462 @@ div [tid="hsbsGp"] .sheet-grid .qv-gridcell{
 & .label {
     font-size: 1.1rem !important;
 }
+& .qv-object-qsstatistic {
+    border-right: solid 2px ;
+    border-color: #8cc63f;
+    width: auto;
+    }
+    
+div [tid="410232a6-c3e6-43d8-8cf8-2cc4811276c4"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+    margin-top:-5px;
+    }
+div [tid="83899644-99cf-4bf6-bb2b-649e90d4a40c"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+    margin-top:-5px;
+    }
+div [tid="XLkmD"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+    margin-top:-5px;
+    }
+div [tid="bJtk"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+    margin-top:-2.5px;
+    }
+ div [tid="d8979bd6-9510-478b-85d9-1fe3743aef0a"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+ div [data-qid="620d552f-d380-4060-8edc-5e780b3acde5"] .qv-object .qv-object-content{
+        margin-top:-5px;
+    }
+ div [data-qid="620d552f-d380-4060-8edc-5e780b3acde5"] .qv-object .qv-object-content-container{
+        position: unset;
+        height: 100%;
+    }
+ div [tid="d0ca5774-cc33-4721-aaff-276fd6831718"] .qv-filterpane-collapsed button{
+        position: absolute;
+    }
 
-                                         /*Liq Incent*/
+                                        /*Informes*/
 & .qv-object-qsstatistic {
 border-right: solid 2px ;
 border-color: #8cc63f;
 width: auto;
 }
 
-div [tid="bJYnas"] .qv-object .qv-object-content{
+div [tid="UQawXk"] .qv-object .qv-object-content{
     position: fixed;
     height: auto;
 	margin-top:-5px;
 }
-div [tid="CmtP"] .qv-object .qv-object-content{
+div [tid="JGZYxet"] .qv-object .qv-object-content{
     position: fixed;
     height: auto;
 	margin-top:-5px;
 }
-div [tid="FKjpe"] .qv-object .qv-object-content{
+div [tid="MYPjzz"] .qv-object .qv-object-content{
     position: fixed;
     height: auto;
     margin-top:-5px;
 }
-div [tid="qrBXWtn"] .qv-object .qv-object-content{
+div [tid="JKPg"] .qv-object .qv-object-content{
+    position: fixed;
+    height: auto;
     margin-top:-5px;
 }
-div [tid="qrBXWtn"] .qv-object .qv-object-content-container{
+div [tid="jyAXrm"] .qv-object .qv-object-content{
+    position: fixed;
+    height: auto;
+    margin-top:-2.5px;
+}
+div [tid="ae13033f-9dfb-4c65-8a50-229f388b9ea1"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="ae13033f-9dfb-4c65-8a50-229f388b9ea1"] .qv-object .qv-object-content-container{
 	position: unset;
 	height: 100%;
 }
-div [tid="RtDrz"] .qv-filterpane-collapsed button{
+div [tid="98608f58-d361-4fef-b843-fc17206dd242"] .qv-filterpane-collapsed button{
 	position: absolute;
 }
 
-                                         /*Liq PROMO*/
+& .qv-object-qsstatistic {
+    border-right: solid 2px ;
+    border-color: #8cc63f;
+    width: auto;
+    }
+    
+div [tid="UQawXk"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+div [tid="JGZYxet"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+div [tid="MYPjzz"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+ div [tid="JKPg"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+div [tid="jyAXrm"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-2.5px;
+    }
+div [tid="ae13033f-9dfb-4c65-8a50-229f388b9ea1"] .qv-object .qv-object-content{
+        margin-top:-5px;
+    }
+div [tid="ae13033f-9dfb-4c65-8a50-229f388b9ea1"] .qv-object .qv-object-content-container{
+        position: unset;
+        height: 100%;
+    }
+div [tid="98608f58-d361-4fef-b843-fc17206dd242"] .qv-filterpane-collapsed button{
+        position: absolute;
+    }
+
+& .qv-object-qsstatistic {
+        border-right: solid 2px ;
+        border-color: #8cc63f;
+        width: auto;
+        }
+    
+div [tid="7cbba951-1492-4e0b-a8a5-7a99f65cd3b8"] .qv-object .qv-object-content{
+            margin-top:-5px;
+        }
+ div [tid="7cbba951-1492-4e0b-a8a5-7a99f65cd3b8"] .qv-object .qv-object-content-container{
+            position: unset;
+            height: 100%;
+        }
+
+/*Objetivos*/
+& .qv-object-qsstatistic {
+    border-right: solid 2px ;
+    border-color: #8cc63f;
+    width: auto;
+    }
+    
+div [tid="tvXHwm"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+div [tid="dFTFP"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+div [tid="kHAjpg"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-2.5px;
+    }
+div [tid="bedce3ec-ca4f-4d0c-8513-0af20f48ab57"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+div [tid="dfc3b9b2-0750-4320-9330-27bb10c06c48"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+div [tid="f8e80910-055e-4aff-ae0c-9a396d864028"] .qv-object .qv-object-content{
+        margin-top:-5px;
+    }
+div [tid="f8e80910-055e-4aff-ae0c-9a396d864028"] .qv-object .qv-object-content-container{
+        position: unset;
+        height: 100%;
+    }
+div [tid="8cd11f0f-20be-4b3c-aa32-08258ea75fff"] .qv-filterpane-collapsed button{
+        position: absolute;
+    }
+div [tid="b90d70ac-a4b1-4b92-b5e1-60d7acf7f79e"] .qv-object .qv-object-content{
+        margin-top:-5px;
+    }
+div [tid="b90d70ac-a4b1-4b92-b5e1-60d7acf7f79e"] .qv-object .qv-object-content-container{
+        position: unset;
+        height: 100%;
+    }
+& .qv-object-qsstatistic {
+        border-right: solid 2px ;
+        border-color: #8cc63f;
+        width: auto;
+        }
+& .qv-object-qsstatistic {
+        border-bottom: solid 2px ;
+        border-color: #7db8da !important;
+        width: auto;
+        height:92%;
+    }
+            
+ & .label {
+         color: #7db8da !important;
+         font-size: 2.3vh !important;
+}
+& .qv-object-qsstatistic {
+    border-bottom: solid 2px ;
+    border-color: #077EE8;
+    width: auto;
+    height:92%;
+    }
+    
+    & .label {
+     font-size: 2.3vh !important;
+    }
+/*Kpi Venta mes*/
+& .label {
+    font-size: 200% !important;
+}
+/*Kpi Objetivo mes*/
+& .label {
+    font-size: 200% !important;
+}
+
+div [tid="SUzPLX"] h1.qv-object-title.qvt-visualization-title{
+justify-content: center !important;
+}
+
+div [tid="SbyrWM"] h1.qv-object-title.qvt-visualization-title{
+justify-content: center !important;
+}
+/*Kpi Venta año*/
+& .label {
+    font-size: 200% !important;
+}
+/*Kpi Objetivo año*/
+& .label {
+    font-size: 200% !important;
+}
+
+/*Promociones*/
+& .qv-object-qsstatistic {
+    border-right: solid 2px ;
+    border-color: #8cc63f;
+    width: auto;
+    }
+    
+    div [tid="wDwRyt"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="FPMQHwv"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="Grjyf"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="dUkUvZ"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="jMdr"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-2.5px;
+    }
+    div [tid="0b7a988b-c942-435b-9e98-5c3db5d18150"] .qv-object .qv-object-content{
+        margin-top:-5px;
+    }
+    div [tid="0b7a988b-c942-435b-9e98-5c3db5d18150"] .qv-object .qv-object-content-container{
+        position: unset;
+        height: 100%;
+    }
+    div [tid="3776804d-88a9-441d-94ef-1980b51d261d"] .qv-filterpane-collapsed button{
+        position: absolute;
+    }
+    div [tid="504997f5-89c4-4536-b182-009e327fab13"] .qv-filterpane-collapsed button{
+        position: absolute;
+    }
+    & .qv-object-qsstatistic {
+        border-right: solid 2px ;
+        border-color: #8cc63f;
+        width: auto;
+        }
+
+/*Talleres Autorizados*/
+& .qv-object-qsstatistic {
+    border-right: solid 2px ;
+    border-color: #8cc63f;
+    width: auto;
+    }
+    
+    div [tid="hbZPnC"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="ZFCPyZj"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="HNHjB"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="xBKXuP"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="FCeSTP"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-2.5px;
+    }
+    div [tid="82322737-1606-445d-8ee7-4168ed030b7b"] .qv-object .qv-object-content{
+        margin-top:-5px;
+    }
+    div [tid="82322737-1606-445d-8ee7-4168ed030b7b"] .qv-object .qv-object-content-container{
+        position: unset;
+        height: 100%;
+    }
+    div [tid="1afaa888-8695-4f34-9fdd-ccdda10f8800"] .qv-filterpane-collapsed button{
+        position: absolute;
+    }
+    div [tid="8e9fa5ac-d4bc-4ba5-b77d-e77e82534c4a"] .qv-filterpane-collapsed button{
+        position: absolute;
+    }
+    div [tid="GPEbCZm"] .qv-object .qv-object-content{
+        
+        color: #4477aa;
+    }
+    div [tid="d145c3ee-ddda-415f-bda3-4e333131d34f"] .qv-object .qv-object-content{
+          border-top: 2.5px  solid ;
+          border-right: 2.5px  solid ;
+          border-left: 2.5px  solid ;
+          border-bottom: 2.5px  solid ;
+          border-color: #4477aa;
+    }
+    div [tid="ecf1f418-a462-4962-b6be-88daf3bdbc4e"] .qv-object .qv-object-content{
+        border-top: 2.5px  solid ;
+        border-right: 2.5px  solid ;
+        border-left: 2.5px  solid ;
+        border-bottom: 2.5px  solid ;
+        border-color: #4477aa;
+    }
+    div [tid="mzjZ"] .qv-object .qv-object-content{
+        border-top: 2.5px  solid ;
+        border-right: 2.5px  solid ;
+        border-left: 2.5px  solid ;
+        border-bottom: 2.5px  solid ;
+        border-color: #4477aa;
+    }
+    & .qv-object-qsstatistic {
+        border-right: solid 2px ;
+        border-color: #8cc63f;
+        width: auto;
+        }
+        & .qv-object-qsstatistic {
+            border-bottom: solid 2px ;
+            border-color: #8cc63f;
+            width: auto;
+            height:92%;
+            }
+            
+ div [tid="69311e0e-e7db-457d-a00c-0f70baffda5c"] .qv-object .qv-object-content{
+        margin-top:-5px;
+            }
+div [tid="69311e0e-e7db-457d-a00c-0f70baffda5c"] .qv-object .qv-object-content-container{
+        position: unset;
+        height: 100%;
+            }
+ /*Liq Incent*/
+& .qv-object-qsstatistic {
+border-right: solid 2px ;
+border-color: #8cc63f;
+width: auto;
+}
+
+div [data-qid="bJYnas"] .qv-object .qv-object-content{
+    position: fixed;
+    height: auto;
+	margin-top:-5px;
+}
+div [data-qid="CmtP"] .qv-object .qv-object-content{
+    position: fixed;
+    height: auto;
+	margin-top:-5px;
+}
+div [data-qid="FKjpe"] .qv-object .qv-object-content{
+    position: fixed;
+    height: auto;
+    margin-top:-5px;
+}
+div [data-qid="qrBXWtn"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [data-qid="qrBXWtn"] .qv-object .qv-object-content-container{
+	position: unset;
+	height: 100%;
+}
+div [data-qid="RtDrz"] .qv-filterpane-collapsed button{
+	position: absolute;
+}
+
+/*Liq TTAA*/
+& .qv-object-qsstatistic {
+    border-right: solid 2px ;
+    border-color: #8cc63f;
+    width: auto;
+    }
+    
+    div [tid="sCNPKs"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="TVFwnjm"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="AMhmW"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="e418ae8d-0c89-4bdf-8e17-68b5a55e2796"] .qv-object .qv-object-content{
+        margin-top:-5px;
+    }
+    div [tid="e418ae8d-0c89-4bdf-8e17-68b5a55e2796"] .qv-object .qv-object-content-container{
+        position: unset;
+        height: 100%;
+    }
+    div [tid="a56e2859-f99c-444c-ae74-67e32d3a922a"] .qv-filterpane-collapsed button{
+        position: absolute;
+    }
+    div [tid="dgXSCsd"] .qv-filterpane-collapsed button{
+        position: absolute;
+    }
+    & .qv-object-qsstatistic {
+        border-right: solid 2px ;
+        border-color: #8cc63f;
+        width: auto;
+        }
+
+/*Liq PROMO*/
 & .qv-object-qsstatistic {
 border-right: solid 2px ;
 border-color: #8cc63f;
@@ -214,7 +639,7 @@ div [tid="930a606e-3d88-46ba-adc8-fb31a5acf7ad"] .qv-filterpane-collapsed button
 	position: absolute;
 }
 
-                                         /*Liq PROMO TTAA*/
+/*Liq PROMO TTAA*/
 & .qv-object-qsstatistic {
 border-right: solid 2px ;
 border-color: #8cc63f;
@@ -255,3 +680,59 @@ border-right: solid 2px ;
 border-color: #8cc63f;
 width: auto;
 }
+
+/*Ad Hoc Report*/
+& .qv-object-qsstatistic {
+    border-right: solid 2px ;
+    border-color: #8cc63f;
+    width: auto;
+    }
+    
+    div [tid="ptjMR"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="jdBZ"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="jAuHC"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="JAUmdCU"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="PxwrT"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-5px;
+    }
+    div [tid="zGqvhL"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-2.5px;
+    }
+    div [tid="pYPvj"] .qv-object .qv-object-content{
+        position: fixed;
+        height: auto;
+        margin-top:-2.5px;
+    }
+    div [tid="XgpGts"] .qv-object .qv-object-content{
+        margin-top:-5px;
+    }
+    div [tid="XgpGts"] .qv-object .qv-object-content-container{
+        position: unset;
+        height: 100%;
+    }
+    div [tid="f514874e-554c-4b25-b350-92ad005c170c"] .qv-filterpane-collapsed button{
+        position: absolute;
+    }
+    div [tid="pQnxaa"] .qv-filterpane-collapsed button{
+        position: absolute;
+    }
