@@ -1,6 +1,10 @@
- /*Iveco View*/
+div#grid.single-full-height >article#content{
+    background-color: #f2f2f2 !important;
+    padding: 0px 10px !important;
+}
+/*Iveco View*/
 /* multi kpi oculto */
-div[tid="EBjUcX"] {
+div[data-qid="EBjUcX"] {
     opacity: 0 !important;
 }
 #XwPbJq_content select{
@@ -15,29 +19,29 @@ div [tid="XwPbJq"] .qui-select.lui-select {
     background-color: white !important;
   }
 /* selector hojas */
-div [tid="pMEJzNP"] .qv-object .qv-inner-object{
+div [data-qid="pMEJzNP"] .qv-object .qv-inner-object{
 	background-color: #f2f2f2 !important;
 	padding-left: 0px !important;
 }
 
-div [tid="pMEJzNP"] .qv-object{
+div [data-qid="pMEJzNP"] .qv-object{
 	border: none !important;
 }
 
-div [tid="pMEJzNP"] .qv-object .qv-object-content{
+div [data-qid="pMEJzNP"] .qv-object .qv-object-content{
     margin-top:-5px;
 }
-div [tid="pMEJzNP"] .qv-object .qv-object-content-container{
+div [data-qid="pMEJzNP"] .qv-object .qv-object-content-container{
 	position: unset !important;
 	height: 100% !important;
 }
-div [tid="pMEJzNP"] .qui-select.lui-select {  
+div [data-qid="pMEJzNP"] .qui-select.lui-select {  
   color: #00336f;
   border: 2px solid rgb(38 160 167 / 50%) !important;
   border-radius: 4px !important;
   background-color: rgb(38 161 167/ 33%) !important;
 }
-div [tid="pMEJzNP"] select *{
+div [data-qid="pMEJzNP"] select *{
     color: #00336f;
 }
 /* botones hoja */
@@ -109,7 +113,7 @@ div.qv-inner-object.no-titles button *{
     text-align: center;
 }
 /*CONTENEDOR FILTRO WEEK OCULTO*/
-:is(div[tid="RbxSwEK"]) .qv-inner-object
+:is(div[data-qid="RbxSwEK"]) .qv-inner-object
 {
 padding:0 !important;
 background: none  !important;
@@ -117,12 +121,23 @@ padding: none !important;
 margin-bottom: -1px !important
 }
 
-:is(div[tid="RbxSwEK"]) .qsc-item,
-:is(div[tid="RbxSwEK"]) .qv-layout-spark
+:is(div[data-qid="RbxSwEK"]) .qsc-item,
+:is(div[data-qid="RbxSwEK"]) .qv-layout-spark
 {
 border: none !important;
 }
-
+/* multi kpi oculto */
+div[data-qid="wmsp"] {
+    opacity: 0 !important;
+}
+#sheet-title .sheet-title-logo-img {
+    align-items: center  !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    height: 36px !important;
+    max-width: 1900px !important; 
+    overflow: hidden !important;
+}
                                         /*Dealer View*/
 /* multi kpi oculto */
 div[tid="cb088772-0f36-4245-a8bd-d22f2914b00c"] {
