@@ -5,7 +5,7 @@ div#grid.single-full-height >article#content{
 
 /*Iveco View*/
 /* multi kpi oculto */
-div[tid="UYJAN"] {
+div[data-qid="UYJAN"] {
     opacity: 0 !important;
 }
 #XwPbJq_content select{
@@ -20,29 +20,29 @@ div [tid="XwPbJq"] .qui-select.lui-select {
     background-color: white !important;
 }
 /* selector hojas */
-div [tid="FZDmJ"] .qv-object .qv-inner-object{
+div [data-qid="FZDmJ"] .qv-object .qv-inner-object{
 	background-color: #f2f2f2 !important;
 	padding-left: 0px !important;
 }
 
-div [tid="FZDmJ"] .qv-object{
+div [data-qid="FZDmJ"] .qv-object{
 	border: none !important;
 }
 
-div [tid="FZDmJ"] .qv-object .qv-object-content{
+div [data-qid="FZDmJ"] .qv-object .qv-object-content{
     margin-top:-5px;
 }
-div [tid="FZDmJ"] .qv-object .qv-object-content-container{
+div [data-qid="FZDmJ"] .qv-object .qv-object-content-container{
 	position: unset !important;
 	height: 100% !important;
 }
-div [tid="FZDmJ"] .qui-select.lui-select {  
+div [data-qid="FZDmJ"] .qui-select.lui-select {  
   color: #00336f;
   border: 2px solid rgb(38 160 167 / 50%) !important;
   border-radius: 4px !important;
   background-color: rgb(38 161 167/ 33%) !important;
 }
-div [tid="FZDmJ"] select *{
+div [data-qid="FZDmJ"] select *{
     color: #00336f;
 }
 /* botones hoja */
@@ -97,6 +97,24 @@ div.qv-inner-object.no-titles button *{
 #pdNdvX_content .ng-scope button{
     border: none !important;
     border-bottom: 2.5px solid #00336F !important;
+}
+
+/* multi kpi oculto */
+div[data-qid="aNnyA"] {
+    opacity: 0 !important;
+}
+#sheet-title .sheet-title-logo-img {
+    align-items: center  !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    height: 36px !important;
+    max-width: 1900px !important; 
+    overflow: hidden !important;
+}
+
+/* CenterFilter */
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
 }
 
                                          /*Dealer View*/
