@@ -510,7 +510,8 @@ div [data-qid="69311e0e-e7db-457d-a00c-0f70baffda5c"] .qv-object .qv-object-cont
         height: 100%;
             }
  /*Liq Incent*/
-& .qv-object-qsstatistic {
+
+div [data-qid="eSPzwW"] .qv-object-qsstatistic {
 border-right: solid 2px ;
 border-color: #8cc63f;
 width: auto;
@@ -538,7 +539,7 @@ div [data-qid="qrBXWtn"] .qv-object .qv-object-content-container{
 	position: unset;
 	height: 100%;
 }
-div [data-qid="RtDrz"] .qv-filterpane-collapsed button{
+div [tid="RtDrz"] .qv-filterpane-collapsed button{
 	position: absolute;
 }
 
