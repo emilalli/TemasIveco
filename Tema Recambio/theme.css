@@ -401,10 +401,10 @@ div [data-qid="b1ac1d05-c4cc-4c4b-85b6-c007d9cea740"] .qv-object-qsstatistic {
         position: unset;
         height: 100%;
     }
-    div [tid="3776804d-88a9-441d-94ef-1980b51d261d"] .qv-filterpane-collapsed button{
+    div [data-qid="3776804d-88a9-441d-94ef-1980b51d261d"] .qv-filterpane-collapsed button{
         position: absolute;
     }
-    div [tid="504997f5-89c4-4536-b182-009e327fab13"] .qv-filterpane-collapsed button{
+    div [data-qid="504997f5-89c4-4536-b182-009e327fab13"] .qv-filterpane-collapsed button{
         position: absolute;
     }
 div [data-qid="3d705c03-8618-4a77-89b5-82b410c7698a"] .qv-object-qsstatistic {
@@ -414,7 +414,7 @@ div [data-qid="3d705c03-8618-4a77-89b5-82b410c7698a"] .qv-object-qsstatistic {
         }
 
 /*Talleres Autorizados*/
-& .qv-object-qsstatistic {
+div [data-qid="4000559a-f3a2-4dbd-94e0-86fcac36f4fe"] .qv-object-qsstatistic {
     border-right: solid 2px ;
     border-color: #8cc63f;
     width: auto;
@@ -452,53 +452,60 @@ div [data-qid="3d705c03-8618-4a77-89b5-82b410c7698a"] .qv-object-qsstatistic {
         position: unset;
         height: 100%;
     }
-    div [tid="1afaa888-8695-4f34-9fdd-ccdda10f8800"] .qv-filterpane-collapsed button{
+    div [data-qid="1afaa888-8695-4f34-9fdd-ccdda10f8800"] .qv-filterpane-collapsed button{
         position: absolute;
     }
-    div [tid="8e9fa5ac-d4bc-4ba5-b77d-e77e82534c4a"] .qv-filterpane-collapsed button{
+    div [data-qid="8e9fa5ac-d4bc-4ba5-b77d-e77e82534c4a"] .qv-filterpane-collapsed button{
         position: absolute;
     }
-    div [tid="GPEbCZm"] .qv-object .qv-object-content{
+    div [data-qid="GPEbCZm"] .qv-object .qv-object-content{
         
         color: #4477aa;
     }
-    div [tid="d145c3ee-ddda-415f-bda3-4e333131d34f"] .qv-object .qv-object-content{
+    div [data-qid="d145c3ee-ddda-415f-bda3-4e333131d34f"] .qv-object .qv-object-content{
           border-top: 2.5px  solid ;
           border-right: 2.5px  solid ;
           border-left: 2.5px  solid ;
           border-bottom: 2.5px  solid ;
           border-color: #4477aa;
     }
-    div [tid="ecf1f418-a462-4962-b6be-88daf3bdbc4e"] .qv-object .qv-object-content{
+    div [data-qid="ecf1f418-a462-4962-b6be-88daf3bdbc4e"] .qv-object .qv-object-content{
         border-top: 2.5px  solid ;
         border-right: 2.5px  solid ;
         border-left: 2.5px  solid ;
         border-bottom: 2.5px  solid ;
         border-color: #4477aa;
     }
-    div [tid="mzjZ"] .qv-object .qv-object-content{
+    div [data-qid="mzjZ"] .qv-object .qv-object-content{
         border-top: 2.5px  solid ;
         border-right: 2.5px  solid ;
         border-left: 2.5px  solid ;
         border-bottom: 2.5px  solid ;
         border-color: #4477aa;
     }
-    & .qv-object-qsstatistic {
+    div [data-qid="4edaea39-2ed5-4d9e-8c04-2c269716f40a"] .qv-object-qsstatistic {
         border-right: solid 2px ;
         border-color: #8cc63f;
         width: auto;
         }
-        & .qv-object-qsstatistic {
-            border-bottom: solid 2px ;
-            border-color: #8cc63f;
-            width: auto;
-            height:92%;
+    div [data-qid="jEQppHq"] .qv-object .qv-object-content{
+            margin-top:-5px;
+        }
+    div [data-qid="jEQppHq"] .qv-object .qv-object-content-container{
+            position: unset;
+            height: 100%;
+        }
+    div [data-qid="bzJfHEd"] .qv-object-qsstatistic {
+        border-bottom: solid 2px ;
+        border-color: #8cc63f;
+        width: auto;
+        height:92%;
             }
             
- div [tid="69311e0e-e7db-457d-a00c-0f70baffda5c"] .qv-object .qv-object-content{
+ div [data-qid="69311e0e-e7db-457d-a00c-0f70baffda5c"] .qv-object .qv-object-content{
         margin-top:-5px;
             }
-div [tid="69311e0e-e7db-457d-a00c-0f70baffda5c"] .qv-object .qv-object-content-container{
+div [data-qid="69311e0e-e7db-457d-a00c-0f70baffda5c"] .qv-object .qv-object-content-container{
         position: unset;
         height: 100%;
             }
