@@ -1,5 +1,5 @@
 div#grid.single-full-height >article#content{
-    background-color: #f2f2f2 !important;
+    background-color: #ffffff !important;
     padding: 0px 10px !important;
 }
 /*Dashboard*/
@@ -15,67 +15,65 @@ div[data-qid="7381476e-5959-412a-a610-c50df993ed49"] .label {
     font-size: 1.1rem !important;
 }
 
-& .qv-object-qsstatistic {
+div[data-qid="340758d3-f171-4371-b6e4-fd5cff3a42c4"] .qv-object-qsstatistic {
     width: auto !important;
     height: 96% !important;
     border: 2px solid #1554FF !important;
     border-radius: 20px 20px 20px 20px !important;
     background-color: rgba(0, 0, 255, 0.07) !important;
 }
-& .label {
-    font-size: 1.1rem !important;
+div[data-qid="340758d3-f171-4371-b6e4-fd5cff3a42c4"] .label {
+    font-size: 1.1rem !important;}
 
-}
-
-& .qv-object-qsstatistic {
+div[data-qid="8d0bb2a0-0392-4581-a475-ae2cadd9d87c"] .qv-object-qsstatistic {
     width: auto !important;
     height: 96% !important;
     border: 2px solid #1554FF !important;
     border-radius: 20px 20px 20px 20px !important;
     background-color: rgba(0, 0, 255, 0.1) !important;
 }
-& .label {
+div[data-qid="8d0bb2a0-0392-4581-a475-ae2cadd9d87c"] .label {
     font-size: 1.1rem !important;
 
 }
 
-& .qv-object-qsstatistic {
+div[data-qid="656d2fd1-63f3-47d4-92ec-6cc93f2da061"] .qv-object-qsstatistic {
     width: auto !important;
     height: 96% !important;
     border: 2px solid #002373!important;
     border-radius: 20px 20px 20px 20px !important;
     background-color: rgba(25, 0, 50, 0.1) !important;
 }
-& .label {
+div[data-qid="656d2fd1-63f3-47d4-92ec-6cc93f2da061"] .label {
     font-size: 1.1rem !important;
 
 }
 
-& .qv-object-qsstatistic {
+div[data-qid="7fefbff1-f13c-4dc8-b87e-f92edc7a9802"] .qv-object-qsstatistic {
     width: auto !important;
     height: 96% !important;
     border: 2px solid #002373!important;
     border-radius: 20px 20px 20px 20px !important;
     background-color: rgba(25, 0, 50, 0.1) !important;
 }
-& .label {
+div[data-qid="7fefbff1-f13c-4dc8-b87e-f92edc7a9802"] .label {
     font-size: 1.1rem !important;
 
 }
 
-& .qv-object-qsstatistic {
+div[data-qid="6e294dad-6839-44af-be63-8ef287b167d6"] .qv-object-qsstatistic {
     width: auto !important;
     height: 96% !important;
     border: 2px solid #002373!important;
     border-radius: 20px 20px 20px 20px !important;
     background-color: rgba(25, 0, 50, 0.1) !important;
 }
-& .label {
+div[data-qid="6e294dad-6839-44af-be63-8ef287b167d6"] .label {
     font-size: 1.1rem !important;
 
 }
 
-& .qv-object-qsstatistic {
+div[data-qid="0386ecb3-526d-4541-8dcf-5d8d4998c7c1"] .qv-object-qsstatistic {
     width: auto !important;
     height: 96% !important;
     border: 2px solid #00bfbf !important;
@@ -83,13 +81,16 @@ div[data-qid="7381476e-5959-412a-a610-c50df993ed49"] .label {
     background-color:rgba(64, 150, 255, 0.1) !important;
 }
 
-div [tid="hsbsGp"] .sheet-grid .qv-gridcell{
-    border-top: 2px solid #B86C00 !important;
-}& .label {
+div[data-qid="0386ecb3-526d-4541-8dcf-5d8d4998c7c1"] .label {
     font-size: 1.1rem !important;
 }
 
-& .qv-object-qsstatistic {
+div [tid="hsbsGp"] .sheet-grid .qv-gridcell{
+    border-top: 2px solid #B86C00 !important;
+
+}
+
+div[data-qid="10a20b9e-6214-4eba-9921-b7d65e6d9d1d"] .qv-object-qsstatistic {
     width: auto !important;
     height: 96% !important;
     border: 2px solid #00bfbf !important;
@@ -97,38 +98,42 @@ div [tid="hsbsGp"] .sheet-grid .qv-gridcell{
     background-color:rgba(64, 150, 255, 0.1) !important;
 }
 
-div [tid="hsbsGp"] .sheet-grid .qv-gridcell{
-    border-top: 2px solid #B86C00 !important;
-}& .label {
+div[data-qid="10a20b9e-6214-4eba-9921-b7d65e6d9d1d"] .label {
     font-size: 1.1rem !important;
 }
 
-& .qv-object-qsstatistic {
+div [tid="hsbsGp"] .sheet-grid .qv-gridcell{
+    border-top: 2px solid #B86C00 !important;
+
+}
+
+div[data-qid="08675a21-4443-4722-ab22-f8c8fa7d9324"] .qv-object-qsstatistic {
     width: auto !important;
     height: 96% !important;
     border: 2px solid #00bfbf !important;
     border-radius: 20px 20px 20px 20px !important;
     background-color:rgba(64, 150, 255, 0.1) !important;
 }
-
-div [tid="hsbsGp"] .sheet-grid .qv-gridcell{
-    border-top: 2px solid #B86C00 !important;
-}& .label {
+div[data-qid="08675a21-4443-4722-ab22-f8c8fa7d9324"] .label {
     font-size: 1.1rem !important;
 }
+div [tid="hsbsGp"] .sheet-grid .qv-gridcell{
+    border-top: 2px solid #B86C00 !important;
 
-& .qv-object-qsstatistic {
+}
+
+div[data-qid="8abbb709-db87-4b89-bf3e-2819426aca47"] .qv-object-qsstatistic {
     width: auto !important;
     height: 96% !important;
     border: 2px solid #ff00e6 !important;
     border-radius: 20px 20px 20px 20px !important;
     background-color: rgba(255, 0, 200, 0.1) !important;
 }
-& .label {
+div[data-qid="8abbb709-db87-4b89-bf3e-2819426aca47"] .label {
     font-size: 1.1rem !important;
 }
 
-& .qv-object-qsstatistic {
+div[data-qid="64af49e5-5e12-4539-8519-258444dce4ce"] .qv-object-qsstatistic {
     width: auto !important;
     height: 96% !important;
     border: 2px solid #808080 !important;
@@ -136,11 +141,11 @@ div [tid="hsbsGp"] .sheet-grid .qv-gridcell{
     background-color: rgba(91, 89, 90, 0.1) !important;
 ;
 }
-& .label {
+div[data-qid="64af49e5-5e12-4539-8519-258444dce4ce"] .label {
     font-size: 1.1rem !important;
 }
 
-& .qv-object-qsstatistic {
+div[data-qid="26ce011e-68e5-4480-b2f1-58fb6f7c0710"] .qv-object-qsstatistic {
     width: auto !important;
     height: 96% !important;
     border: 2px solid #808080 !important;
@@ -148,10 +153,10 @@ div [tid="hsbsGp"] .sheet-grid .qv-gridcell{
     background-color: rgba(91, 89, 90, 0.1) !important;
 ;
 }
-& .label {
+div[data-qid="26ce011e-68e5-4480-b2f1-58fb6f7c0710"] .label {
     font-size: 1.1rem !important;
 }
-& .qv-object-qsstatistic {
+div[data-qid="f45ffcaa-ac76-4d12-a4dc-dce4939d14d6"] .qv-object-qsstatistic {
     border-right: solid 2px ;
     border-color: #8cc63f;
     width: auto;
@@ -160,7 +165,7 @@ div [tid="hsbsGp"] .sheet-grid .qv-gridcell{
 div [tid="410232a6-c3e6-43d8-8cf8-2cc4811276c4"] .qv-object .qv-object-content{
         position: fixed;
         height: auto;
-    margin-top:-5px;
+        margin-top:-5px;
     }
 div [tid="83899644-99cf-4bf6-bb2b-649e90d4a40c"] .qv-object .qv-object-content{
         position: fixed;
@@ -192,6 +197,13 @@ div [tid="bJtk"] .qv-object .qv-object-content{
  div [tid="d0ca5774-cc33-4721-aaff-276fd6831718"] .qv-filterpane-collapsed button{
         position: absolute;
     }
+
+div [tid="a7bbe914-cbaf-4a2b-b5c8-e6556971c7bb"] .qv-object-qsstatistic {
+        border-bottom: solid 2px  ;
+        border-color: #8cc63f;
+        width: auto;
+        height: 95%;
+        }
 
                                         /*Informes*/
 & .qv-object-qsstatistic {
@@ -225,10 +237,10 @@ div [tid="jyAXrm"] .qv-object .qv-object-content{
     height: auto;
     margin-top:-2.5px;
 }
-div [tid="ae13033f-9dfb-4c65-8a50-229f388b9ea1"] .qv-object .qv-object-content{
+div [data-qid="ae13033f-9dfb-4c65-8a50-229f388b9ea1"] .qv-object .qv-object-content{
     margin-top:-5px;
 }
-div [tid="ae13033f-9dfb-4c65-8a50-229f388b9ea1"] .qv-object .qv-object-content-container{
+div [data-qid="ae13033f-9dfb-4c65-8a50-229f388b9ea1"] .qv-object .qv-object-content-container{
 	position: unset;
 	height: 100%;
 }
@@ -236,7 +248,7 @@ div [tid="98608f58-d361-4fef-b843-fc17206dd242"] .qv-filterpane-collapsed button
 	position: absolute;
 }
 
-& .qv-object-qsstatistic {
+div [data-qid="c2bdb8a3-9416-4adc-805b-7aee429f4459"] .qv-object-qsstatistic {
     border-right: solid 2px ;
     border-color: #8cc63f;
     width: auto;
