@@ -257,108 +257,108 @@ div [data-qid="EbtRz"] .qv-object-qsstatistic {
 div [data-qid="7cbba951-1492-4e0b-a8a5-7a99f65cd3b8"] .qv-object .qv-object-content{
             margin-top:-5px;
         }
- div [data-qid="7cbba951-1492-4e0b-a8a5-7a99f65cd3b8"] .qv-object .qv-object-content-container{
+div [data-qid="7cbba951-1492-4e0b-a8a5-7a99f65cd3b8"] .qv-object .qv-object-content-container{
             position: unset;
             height: 100%;
         }
 
 /*Objetivos*/
-& .qv-object-qsstatistic {
+div [data-qid="3fd9bd56-6bcc-46ed-970a-c5914464f7cc"] .qv-object-qsstatistic {
     border-right: solid 2px ;
     border-color: #8cc63f;
     width: auto;
     }
     
-div [tid="tvXHwm"] .qv-object .qv-object-content{
+div [data-qid="tvXHwm"] .qv-object .qv-object-content{
         position: fixed;
         height: auto;
         margin-top:-5px;
     }
-div [tid="dFTFP"] .qv-object .qv-object-content{
+div [data-qid="dFTFP"] .qv-object .qv-object-content{
         position: fixed;
         height: auto;
         margin-top:-5px;
     }
-div [tid="kHAjpg"] .qv-object .qv-object-content{
+div [data-qid="kHAjpg"] .qv-object .qv-object-content{
         position: fixed;
         height: auto;
         margin-top:-2.5px;
     }
-div [tid="bedce3ec-ca4f-4d0c-8513-0af20f48ab57"] .qv-object .qv-object-content{
+div [data-qid="bedce3ec-ca4f-4d0c-8513-0af20f48ab57"] .qv-object .qv-object-content{
         position: fixed;
         height: auto;
         margin-top:-5px;
     }
-div [tid="dfc3b9b2-0750-4320-9330-27bb10c06c48"] .qv-object .qv-object-content{
+div [data-qid="dfc3b9b2-0750-4320-9330-27bb10c06c48"] .qv-object .qv-object-content{
         position: fixed;
         height: auto;
         margin-top:-5px;
     }
-div [tid="f8e80910-055e-4aff-ae0c-9a396d864028"] .qv-object .qv-object-content{
+div [data-qid="f8e80910-055e-4aff-ae0c-9a396d864028"] .qv-object .qv-object-content{
         margin-top:-5px;
     }
-div [tid="f8e80910-055e-4aff-ae0c-9a396d864028"] .qv-object .qv-object-content-container{
+div [data-qid="f8e80910-055e-4aff-ae0c-9a396d864028"] .qv-object .qv-object-content-container{
         position: unset;
         height: 100%;
     }
-div [tid="8cd11f0f-20be-4b3c-aa32-08258ea75fff"] .qv-filterpane-collapsed button{
+div [data-qid="8cd11f0f-20be-4b3c-aa32-08258ea75fff"] .qv-filterpane-collapsed button{
         position: absolute;
     }
-div [tid="b90d70ac-a4b1-4b92-b5e1-60d7acf7f79e"] .qv-object .qv-object-content{
+div [data-qid="b90d70ac-a4b1-4b92-b5e1-60d7acf7f79e"] .qv-object .qv-object-content{
         margin-top:-5px;
     }
-div [tid="b90d70ac-a4b1-4b92-b5e1-60d7acf7f79e"] .qv-object .qv-object-content-container{
+div [data-qid="b90d70ac-a4b1-4b92-b5e1-60d7acf7f79e"] .qv-object .qv-object-content-container{
         position: unset;
         height: 100%;
     }
-& .qv-object-qsstatistic {
+div [data-qid="35696417-56db-4d70-865b-73beba0a9f6e"] .qv-object-qsstatistic {
         border-right: solid 2px ;
         border-color: #8cc63f;
         width: auto;
         }
-& .qv-object-qsstatistic {
+div [data-qid="b0285dc8-fff0-4765-8567-7cd8d154dfcb"] .qv-object-qsstatistic {
         border-bottom: solid 2px ;
         border-color: #7db8da !important;
         width: auto;
         height:92%;
     }
             
- & .label {
+ div [data-qid="b0285dc8-fff0-4765-8567-7cd8d154dfcb"] .label {
          color: #7db8da !important;
          font-size: 2.3vh !important;
 }
-& .qv-object-qsstatistic {
+div [data-qid="db1b4f8b-01ec-499b-90d0-f637e9d300f4"] .qv-object-qsstatistic {
     border-bottom: solid 2px ;
     border-color: #077EE8;
     width: auto;
     height:92%;
     }
     
-    & .label {
+div [data-qid="db1b4f8b-01ec-499b-90d0-f637e9d300f4"] .label {
      font-size: 2.3vh !important;
     }
 /*Kpi Venta mes*/
-& .label {
+div [data-qid="7f9adb61-920c-4cd8-b156-537284a7a844"] .label {
     font-size: 200% !important;
 }
 /*Kpi Objetivo mes*/
-& .label {
+div [data-qid="ec2463f4-7616-4f9d-8981-1a29c12b34e8"] .label {
     font-size: 200% !important;
 }
 
-div [tid="SUzPLX"] h1.qv-object-title.qvt-visualization-title{
+div [data-qid="SUzPLX"] h1.qv-object-title.qvt-visualization-title{
 justify-content: center !important;
 }
 
-div [tid="SbyrWM"] h1.qv-object-title.qvt-visualization-title{
+div [data-qid="SbyrWM"] h1.qv-object-title.qvt-visualization-title{
 justify-content: center !important;
 }
 /*Kpi Venta año*/
-& .label {
+div [data-qid="545d279f-e922-4c7d-838b-a736de41bd79"] .label {
     font-size: 200% !important;
 }
 /*Kpi Objetivo año*/
-& .label {
+div [data-qid="995bd997-9008-4919-8398-67492835815b"] .label {
     font-size: 200% !important;
 }
 
