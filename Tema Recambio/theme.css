@@ -578,14 +578,14 @@ div [data-qid="6fe2f775-1bd7-4677-9bed-e6a81c8780b4"] .qv-object-qsstatistic {
     div [data-qid="dgXSCsd"] .qv-filterpane-collapsed button{
         position: absolute;
     }
-    div [tid="sguEtA"] .qv-object-qsstatistic {
+    div [data-qid="sguEtA"] .qv-object-qsstatistic {
         border-right: solid 2px ;
         border-color: #8cc63f;
         width: auto;
         }
 
 /*Liq PROMO*/
-& .qv-object-qsstatistic {
+div [data-qid="18fb558b-2d36-4012-99e0-d4e75e043c3f"] .qv-object-qsstatistic {
 border-right: solid 2px ;
 border-color: #8cc63f;
 width: auto;
@@ -606,14 +606,14 @@ div [tid="WGWpgd"] .qv-object .qv-object-content{
     height: auto;
     margin-top:-5px;
 }
-div [tid="ebe30bae-cc51-4204-b5e6-e06294df8f8f"] .qv-object .qv-object-content{
+div [data-qid="ebe30bae-cc51-4204-b5e6-e06294df8f8f"] .qv-object .qv-object-content{
     margin-top:-5px;
 }
-div [tid="ebe30bae-cc51-4204-b5e6-e06294df8f8f"] .qv-object .qv-object-content-container{
+div [data-qid="ebe30bae-cc51-4204-b5e6-e06294df8f8f"] .qv-object .qv-object-content-container{
 	position: unset;
 	height: 100%;
 }
-div [tid="930a606e-3d88-46ba-adc8-fb31a5acf7ad"] .qv-filterpane-collapsed button{
+div [data-qid="930a606e-3d88-46ba-adc8-fb31a5acf7ad"] .qv-filterpane-collapsed button{
 	position: absolute;
 }
 
