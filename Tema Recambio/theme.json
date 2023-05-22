@@ -1,6 +1,6 @@
 {
     "_inherit": true,
-    "_cards": true,
+    "_cards": false,
     "_variables": {
         "@TitleSize": "16px",
         "@SubtitleSize": "15px",
