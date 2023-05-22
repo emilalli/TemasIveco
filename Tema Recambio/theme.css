@@ -363,7 +363,7 @@ div [data-qid="995bd997-9008-4919-8398-67492835815b"] .label {
 }
 
 /*Promociones*/
-& .qv-object-qsstatistic {
+div [data-qid="b1ac1d05-c4cc-4c4b-85b6-c007d9cea740"] .qv-object-qsstatistic {
     border-right: solid 2px ;
     border-color: #8cc63f;
     width: auto;
@@ -394,10 +394,10 @@ div [data-qid="995bd997-9008-4919-8398-67492835815b"] .label {
         height: auto;
         margin-top:-2.5px;
     }
-    div [tid="0b7a988b-c942-435b-9e98-5c3db5d18150"] .qv-object .qv-object-content{
+    div [data-qid="0b7a988b-c942-435b-9e98-5c3db5d18150"] .qv-object .qv-object-content{
         margin-top:-5px;
     }
-    div [tid="0b7a988b-c942-435b-9e98-5c3db5d18150"] .qv-object .qv-object-content-container{
+    div [data-qid="0b7a988b-c942-435b-9e98-5c3db5d18150"] .qv-object .qv-object-content-container{
         position: unset;
         height: 100%;
     }
@@ -407,7 +407,7 @@ div [data-qid="995bd997-9008-4919-8398-67492835815b"] .label {
     div [tid="504997f5-89c4-4536-b182-009e327fab13"] .qv-filterpane-collapsed button{
         position: absolute;
     }
-    & .qv-object-qsstatistic {
+div [data-qid="3d705c03-8618-4a77-89b5-82b410c7698a"] .qv-object-qsstatistic {
         border-right: solid 2px ;
         border-color: #8cc63f;
         width: auto;
