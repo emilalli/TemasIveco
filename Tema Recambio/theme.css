@@ -618,7 +618,7 @@ div [data-qid="930a606e-3d88-46ba-adc8-fb31a5acf7ad"] .qv-filterpane-collapsed b
 }
 
 /*Liq PROMO TTAA*/
-& .qv-object-qsstatistic {
+div [tid="5847f57a-9e49-4d6e-aaaa-1b6e2563e7d1"] .qv-object-qsstatistic {
 border-right: solid 2px ;
 border-color: #8cc63f;
 width: auto;
@@ -639,21 +639,21 @@ div [tid="XYJ"] .qv-object .qv-object-content{
     height: auto;
     margin-top:-5px;
 }
-div [tid="ca0c0b9e-8b80-4a8d-b4d0-06b29f487d11"] .qv-object .qv-object-content{
+div [data-qid="ca0c0b9e-8b80-4a8d-b4d0-06b29f487d11"] .qv-object .qv-object-content{
     margin-top:-5px;
 }
-div [tid="ca0c0b9e-8b80-4a8d-b4d0-06b29f487d11"] .qv-object .qv-object-content-container{
+div [data-qid="ca0c0b9e-8b80-4a8d-b4d0-06b29f487d11"] .qv-object .qv-object-content-container{
 	position: unset;
 	height: 100%;
 }
-div [tid="f514874e-554c-4b25-b350-92ad005c170c"] .qv-filterpane-collapsed button{
+div [data-qid="f514874e-554c-4b25-b350-92ad005c170c"] .qv-filterpane-collapsed button{
 	position: absolute;
 }
-div [tid="EPtDt"] .qv-filterpane-collapsed button{
+div [data-qid="EPtDt"] .qv-filterpane-collapsed button{
 	position: absolute;
 }
 
-& .qv-object-qsstatistic {
+div [data-qid="uAtCdy"] .qv-object-qsstatistic {
 border-right: solid 2px ;
 border-color: #8cc63f;
 width: auto;
