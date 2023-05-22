@@ -544,7 +544,7 @@ div [tid="RtDrz"] .qv-filterpane-collapsed button{
 }
 
 /*Liq TTAA*/
-& .qv-object-qsstatistic {
+div [data-qid="6fe2f775-1bd7-4677-9bed-e6a81c8780b4"] .qv-object-qsstatistic {
     border-right: solid 2px ;
     border-color: #8cc63f;
     width: auto;
@@ -565,20 +565,20 @@ div [tid="RtDrz"] .qv-filterpane-collapsed button{
         height: auto;
         margin-top:-5px;
     }
-    div [tid="e418ae8d-0c89-4bdf-8e17-68b5a55e2796"] .qv-object .qv-object-content{
+    div [data-qid="e418ae8d-0c89-4bdf-8e17-68b5a55e2796"] .qv-object .qv-object-content{
         margin-top:-5px;
     }
-    div [tid="e418ae8d-0c89-4bdf-8e17-68b5a55e2796"] .qv-object .qv-object-content-container{
+    div [data-qid="e418ae8d-0c89-4bdf-8e17-68b5a55e2796"] .qv-object .qv-object-content-container{
         position: unset;
         height: 100%;
     }
-    div [tid="a56e2859-f99c-444c-ae74-67e32d3a922a"] .qv-filterpane-collapsed button{
+    div [data-qid="a56e2859-f99c-444c-ae74-67e32d3a922a"] .qv-filterpane-collapsed button{
         position: absolute;
     }
-    div [tid="dgXSCsd"] .qv-filterpane-collapsed button{
+    div [data-qid="dgXSCsd"] .qv-filterpane-collapsed button{
         position: absolute;
     }
-    & .qv-object-qsstatistic {
+    div [tid="sguEtA"] .qv-object-qsstatistic {
         border-right: solid 2px ;
         border-color: #8cc63f;
         width: auto;
