@@ -91,7 +91,7 @@ div.qv-inner-object.no-titles button *{
 }
 /*Dealer View*/
 /*Contenedores Invisible*/
-:is(div[tid="pNzxEB"], div[tid="WfTkfw"], div[tid="CCvXLDS"], div[tid="YkyWyJ"], div[tid="NXxdfN"], div[tid="hduwLQf"], div[tid="tBCScs"]) .qv-inner-object
+:is(div[data-qid="pNzxEB"], div[data-qid="WfTkfw"], div[data-qid="CCvXLDS"], div[data-qid="YkyWyJ"], div[data-qid="NXxdfN"], div[data-qid="hduwLQf"], div[data-qid="tBCScs"]) .qv-inner-object
 {
 padding:0 !important;
 background: none  !important;
@@ -99,20 +99,20 @@ padding: none !important;
 margin-bottom: -1px !important
 }
 
-:is(div[tid="pNzxEB"], div[tid="WfTkfw"], div[tid="CCvXLDS"], div[tid="YkyWyJ"], div[tid="NXxdfN"], div[tid="hduwLQf"], div[tid="tBCScs"]) .qsc-item,
-:is(div[tid="pNzxEB"], div[tid="WfTkfw"], div[tid="CCvXLDS"]) .qv-layout-spark
+:is(div[data-qid="pNzxEB"], div[data-qid="WfTkfw"], div[data-qid="CCvXLDS"], div[data-qid="YkyWyJ"], div[data-qid="NXxdfN"], div[data-qid="hduwLQf"], div[data-qid="tBCScs"]) .qsc-item,
+:is(div[data-qid="pNzxEB"], div[data-qid="WfTkfw"], div[data-qid="CCvXLDS"]) .qv-layout-spark
 {
 border: none !important;
 }
 
 /*Tamaño CheckBox*/
 
-:is(div[tid="YkyWyJ"], div[tid="NXxdfN"], div[tid="hduwLQf"], div[tid="tBCScs"]) .qv-layout-spark
+:is(div[data-qid="YkyWyJ"], div[data-qid="NXxdfN"], div[data-qid="hduwLQf"], div[data-qid="tBCScs"]) .qv-layout-spark
 {
 border-color: #00000000 !important;
 }
 
-:is(div[tid="YkyWyJ"], div[tid="NXxdfN"], div[tid="hduwLQf"], div[tid="tBCScs"]) .qsc-item .ng-scope button
+:is(div[data-qid="YkyWyJ"], div[data-qid="NXxdfN"], div[data-qid="hduwLQf"], div[data-qid="tBCScs"]) .qsc-item .ng-scope button
 {
     border: none !important;
     border-bottom: 2.5px solid #00336F !important;
