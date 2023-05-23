@@ -1,0 +1,225 @@
+/*Iveco View*/
+/* multi kpi oculto */
+div[tid="dJmWEZu"] {
+    opacity: 0 !important;
+}
+/* selector hojas */
+div [tid="PhRmb"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [tid="PhRmb"] .qv-object{
+	border: none !important;
+}
+
+div [tid="PhRmb"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="PhRmb"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [tid="PhRmb"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [tid="PhRmb"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#KzJwk_content .ng-scope button span{
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+#yhYME_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#SrGAQd_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#d21f08cf-35c7-48da-a9a1-ea34a4e312cb_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#RBfhtju_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#aRCDubQ_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#zDJbFU_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#xEMgeEL_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#ANTtmgq_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#dfhncaY_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#NFRNxhY_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+/*Banner */
+
+#sheet-title .sheet-title-logo-img {
+    align-items: center  !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    height: 36px !important;
+    max-width: 1900px !important; 
+    overflow: hidden !important;
+}
+
+/* CenterFilter */
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
+}
+
+/*Dealer View*/
+/* multi kpi oculto */
+div[tid="ZhFvrh"] {
+    opacity: 0 !important;
+}
+/* selector hojas */
+div [tid="VGPBzC"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [tid="VGPBzC"] .qv-object{
+	border: none !important;
+}
+
+div [tid="VGPBzC"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="VGPBzC"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [tid="VGPBzC"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [tid="VGPBzC"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#TpfQEV_content .ng-scope button span{
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+#dpkCMG_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#dpkCMG_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#cJQMpZ_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#c4ad6c4e-99d1-48b3-a1d0-ea13b2944e83_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#BJGEtc_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#uPjhL_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#fyNJ_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#RPkH_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#cwjfb_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#PyMM_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+/*Banner */
+
+#sheet-title .sheet-title-logo-img {
+    align-items: center  !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    height: 36px !important;
+    max-width: 1900px !important; 
+    overflow: hidden !important;
+}
+
+
+/* Contenedores Invisible*/
+:is(div[tid="TqAhHN"], div[tid="amPwdy"], div[tid="gsZGp"], div[tid="BWJTnZ"], div[tid="tMPmrZ"], div[tid="FCQMeU"], div[tid="RvnPkKf"]
+) .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+
+:is(div[tid="TqAhHN"], div[tid="amPwdy"], div[tid="gsZGp"], div[tid="BWJTnZ"], div[tid="tMPmrZ"], div[tid="FCQMeU"], div[tid="jMUGS"], div[tid="RvnPkKf"]) .qsc-item,
+:is(div[tid="TqAhHN"], div[tid="FCQMeU"], div[tid="RvnPkKf"]) .qv-layout-spark
+{
+border: none !important;
+}
+
+/*Tamaño checkbox*/
+
+:is(div[tid="amPwdy"], div[tid="gsZGp"], div[tid="BWJTnZ"], div[tid="tMPmrZ"]) .qv-layout-spark
+{
+border-color: #00000000 !important;
+}
+
+:is(div[tid="amPwdy"], div[tid="gsZGp"], div[tid="BWJTnZ"], div[tid="tMPmrZ"]) .qsc-item .ng-scope button
+{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+
+/* CenterFilter */
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
+}
