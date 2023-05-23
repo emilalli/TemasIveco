@@ -195,7 +195,7 @@ div.qv-inner-object.no-titles button *{
 
 
 /* Contenedores Invisible*/
-:is(div[tid="TqAhHN"], div[tid="amPwdy"], div[tid="gsZGp"], div[tid="BWJTnZ"], div[tid="tMPmrZ"], div[tid="FCQMeU"], div[tid="RvnPkKf"]
+:is(div[data-qid="TqAhHN"], div[data-qid="amPwdy"], div[data-qid="gsZGp"], div[data-qid="BWJTnZ"], div[data-qid="tMPmrZ"], div[data-qid="FCQMeU"], div[data-qid="RvnPkKf"]
 ) .qv-inner-object
 {
 padding:0 !important;
@@ -204,20 +204,20 @@ padding: none !important;
 margin-bottom: -1px !important
 }
 
-:is(div[tid="TqAhHN"], div[tid="amPwdy"], div[tid="gsZGp"], div[tid="BWJTnZ"], div[tid="tMPmrZ"], div[tid="FCQMeU"], div[tid="jMUGS"], div[tid="RvnPkKf"]) .qsc-item,
-:is(div[tid="TqAhHN"], div[tid="FCQMeU"], div[tid="RvnPkKf"]) .qv-layout-spark
+:is(div[data-qid="TqAhHN"], div[data-qid="amPwdy"], div[data-qid="gsZGp"], div[data-qid="BWJTnZ"], div[data-qid="tMPmrZ"], div[data-qid="FCQMeU"], div[data-qid="jMUGS"], div[data-qid="RvnPkKf"]) .qsc-item,
+:is(div[data-qid="TqAhHN"], div[data-qid="FCQMeU"], div[data-qid="RvnPkKf"]) .qv-layout-spark
 {
 border: none !important;
 }
 
 /*Tamaño checkbox*/
 
-:is(div[tid="amPwdy"], div[tid="gsZGp"], div[tid="BWJTnZ"], div[tid="tMPmrZ"]) .qv-layout-spark
+:is(div[data-qid="amPwdy"], div[data-qid="gsZGp"], div[data-qid="BWJTnZ"], div[data-qid="tMPmrZ"]) .qv-layout-spark
 {
 border-color: #00000000 !important;
 }
 
-:is(div[tid="amPwdy"], div[tid="gsZGp"], div[tid="BWJTnZ"], div[tid="tMPmrZ"]) .qsc-item .ng-scope button
+:is(div[data-qid="amPwdy"], div[data-qid="gsZGp"], div[data-qid="BWJTnZ"], div[data-qid="tMPmrZ"]) .qsc-item .ng-scope button
 {
     border: none !important;
     border-bottom: 2.5px solid #00336F !important;
