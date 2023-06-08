@@ -1,12 +1,16 @@
+div#grid.single-full-height >article#content{
+    background-color: #f2f2f2 !important;
+    padding: 0px 10px !important;
+}
 #grid-wrap {	
-background: url("https://ivecocompass.eu.qlikcloud.com/api/v1/apps/c5c33c5b-c3d7-4d28-b4e5-d42ab05cbb72/media/files/IVECO_Dealer.png");
+background-image: url('IVECO_Dealer.png');
 background-repeat: no-repeat;
 background-attachment: ;
 background-position: centered;
 background-size: contain;
 }
 
-div[tid='pMAUG'] {
+div[data-qid='pMAUG'] {
 opacity: 0 !important;
 }
 
@@ -20,11 +24,11 @@ border-bottom: none !important;
 }
 
 
-div[tid='5c0e2378-3949-4ffa-8a32-bdf74aa4e5c4'] .qv-inner-object  {
+div[data-qid='5c0e2378-3949-4ffa-8a32-bdf74aa4e5c4'] .qv-inner-object  {
     background-color: transparent !important;
 }
 
-div[tid='FTbReY'] .qv-inner-object {
+div[data-qid='FTbReY'] .qv-inner-object {
     background-color: transparent !important;
 }
 
@@ -36,6 +40,6 @@ div[tid='FTbReY'] .qv-inner-object {
     color: transparent;
 }
 
-div[tid='FTbReY'] .qv-object {
+div[data-qid='FTbReY'] .qv-object {
     border: none !important;
 }
