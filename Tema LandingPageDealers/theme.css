@@ -6,7 +6,7 @@ div#grid.single-full-height >article#content{
 background-image: url('IVECO_Dealer.png');
 background-repeat: no-repeat;
 background-attachment: ;
-background-position: centered;
+background-position: center;
 background-size: contain;
 }
 
@@ -15,10 +15,10 @@ opacity: 0 !important;
 }
 
 .qv-panel-sheet .sheet-title-container{
-background: url("https://ivecosop.eu.qlikcloud.com/api/v1/apps/fd34821b-c953-4621-b23e-f90023818441/media/files/Banner.png") !important;
+background: url('BannerLandingPage.png') !important;
 background-repeat: no-repeat !important;
 background-attachment: ;
-background-position: centered;
+background-position: center;
 background-size: cover !important;
 border-bottom: none !important;
 }
