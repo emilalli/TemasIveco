@@ -1,0 +1,41 @@
+#grid-wrap {	
+background: url("https://ivecocompass.eu.qlikcloud.com/api/v1/apps/c5c33c5b-c3d7-4d28-b4e5-d42ab05cbb72/media/files/IVECO_Dealer.png");
+background-repeat: no-repeat;
+background-attachment: ;
+background-position: centered;
+background-size: contain;
+}
+
+div[tid='pMAUG'] {
+opacity: 0 !important;
+}
+
+.qv-panel-sheet .sheet-title-container{
+background: url("https://ivecosop.eu.qlikcloud.com/api/v1/apps/fd34821b-c953-4621-b23e-f90023818441/media/files/Banner.png") !important;
+background-repeat: no-repeat !important;
+background-attachment: ;
+background-position: centered;
+background-size: cover !important;
+border-bottom: none !important;
+}
+
+
+div[tid='5c0e2378-3949-4ffa-8a32-bdf74aa4e5c4'] .qv-inner-object  {
+    background-color: transparent !important;
+}
+
+div[tid='FTbReY'] .qv-inner-object {
+    background-color: transparent !important;
+}
+
+.qs-container .external-bindings {
+    background-color: transparent;
+}
+
+.lui-icon--dynamic-object:before {
+    color: transparent;
+}
+
+div[tid='FTbReY'] .qv-object {
+    border: none !important;
+}
