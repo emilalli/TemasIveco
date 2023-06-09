@@ -5,22 +5,26 @@ div#grid.single-full-height >article#content{
 #grid-wrap {	
 background-image: url('IVECO_Dealer.png');
 background-repeat: no-repeat;
-background-attachment: ;
 background-position: center;
 background-size: contain;
+background-color: #fff;
 }
 
 div[data-qid='pMAUG'] {
 opacity: 0 !important;
 }
 
+div[tid='pMAUG'] {
+    opacity: 0 !important;
+}
+
 .qv-panel-sheet .sheet-title-container{
 background: url('BannerLandingPage.png') !important;
 background-repeat: no-repeat !important;
-background-attachment: ;
 background-position: center;
-background-size: cover !important;
+background-size: contain !important;
 border-bottom: none !important;
+background-color: #fff !important;
 }
 
 
@@ -41,5 +45,17 @@ div[data-qid='FTbReY'] .qv-inner-object {
 }
 
 div[data-qid='FTbReY'] .qv-object {
+    border: none !important;
+}
+
+div[tid='5c0e2378-3949-4ffa-8a32-bdf74aa4e5c4'] .qv-inner-object  {
+    background-color: transparent !important;
+}
+
+div[tid='FTbReY'] .qv-inner-object {
+    background-color: transparent !important;
+}
+
+div[tid='FTbReY'] .qv-object {
     border: none !important;
 }
