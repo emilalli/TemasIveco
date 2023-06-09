@@ -383,3 +383,31 @@ div [tid="XwPbJq"] .qui-select.lui-select {
     font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important;
     }
 /*FIN ESTILO BORONES TABLAS CUMP*/
+
+div [data-qid="mMpnyGX"] .qv-object{
+    border: none !important;
+    }
+    
+    div [data-qid="mMpnyGX"] .qv-inner-object{
+    background-color: #f2f2f2 !important;
+    padding: 0 !important;
+    }
+    
+    div [data-qid="rkQLmU"] .qv-object{
+    border: none !important;
+    }
+    
+    div [data-qid="rkQLmU"] .qv-inner-object{
+    background-color: #f2f2f2 !important;
+    padding: 0 !important;
+    }
+    
+    div [data-qid="jFLJUZ"] .qv-object{
+    border: none !important;
+    }
+    
+    div [data-qid="jFLJUZ"] .qv-inner-object{
+    background-color: #f2f2f2 !important;
+    padding: 0 !important;
+    }
+    
