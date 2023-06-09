@@ -227,3 +227,21 @@ border-color: #00000000 !important;
 .qv-collapsed-listbox .title-wrapper .title {
     text-align: center;
 }
+
+div [data-qid="tRWhjxH"] .qv-object{
+border: none !important;
+}
+
+div [data-qid="tRWhjxH"] .qv-inner-object{
+background-color: #f2f2f2 !important;
+padding: 0 !important;
+}
+
+div [data-qid="hxPAPx"] .qv-object{
+border: none !important;
+}
+
+div [data-qid="hxPAPx"] .qv-inner-object{
+background-color: #f2f2f2 !important;
+padding: 0 !important;
+}
