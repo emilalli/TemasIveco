@@ -455,3 +455,22 @@ div[data-qid="VDpVL"] {
     max-width: 1900px !important; 
     overflow: hidden !important;
 }
+
+    div [data-qid="EUyNs"] .qv-object{
+    border: none !important;
+    }
+    
+    div [data-qid="EUyNs"] .qv-inner-object{
+    background-color: #f2f2f2 !important;
+    padding: 0 !important;
+    }
+    
+    div [data-qid="TAQtmp"] .qv-object{
+    border: none !important;
+    }
+    
+    div [data-qid="TAQtmp"] .qv-inner-object{
+    background-color: #f2f2f2 !important;
+    padding: 0 !important;
+    }
+    
