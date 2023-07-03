@@ -1,0 +1,846 @@
+div#grid.single-full-height >article#content{
+    background-color: #f2f2f2 !important;
+    padding: 0px 10px !important;
+}
+
+/*Iveco View*/
+/* multi kpi oculto */
+div[data-qid="UYJAN"] {
+    opacity: 0 !important;
+}
+#XwPbJq_content select{
+    color: #00336f;
+}
+#XwPbJq_content select *{
+    color: #00336f;
+}
+div [tid="XwPbJq"] .qui-select.lui-select {  
+    color: #00336f;
+    border-radius: 4px !important;
+    background-color: white !important;
+}
+/* selector hojas */
+div [data-qid="FZDmJ"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [data-qid="FZDmJ"] .qv-object{
+	border: none !important;
+}
+
+div [data-qid="FZDmJ"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [data-qid="FZDmJ"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [data-qid="FZDmJ"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [data-qid="FZDmJ"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#DHNUpK_content .ng-scope button span{
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+/*borde inferior botones*/
+
+#fqGHg_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#aZmETks_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#nWBtqF_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#mrWquj_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#xeeULE_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#kmVQVsm_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#vbNDMJ_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#KYQkTR_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#vPhpmfN_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#pdNdvX_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+
+/* multi kpi oculto */
+div[data-qid="aNnyA"] {
+    opacity: 0 !important;
+}
+#sheet-title .sheet-title-logo-img {
+    align-items: center  !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    height: 36px !important;
+    max-width: 1900px !important; 
+    overflow: hidden !important;
+}
+
+/* CenterFilter */
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
+}
+
+                                         /*Dealer View*/
+/* multi kpi oculto */
+div[data-qid="pPhc"] {
+    opacity: 0 !important;
+}
+#JpAKEW_content select{
+    color: #00336f;
+}
+#JpAKEW_content select *{
+    color: #00336f;
+}
+div [data-qid="JpAKEW"] .qui-select.lui-select {  
+    color: #00336f;
+    border-radius: 4px !important;
+    background-color: white !important;
+}
+/* selector hojas */
+div [data-qid="JpAKEW"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [data-qid="JpAKEW"] .qv-object{
+	border: none !important;
+}
+
+div [data-qid="JpAKEW"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [data-qid="JpAKEW"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [data-qid="JpAKEW"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [data-qid="JpAKEW"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#xfTppj_content .ng-scope button span{/*BOTON "IR"*/
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+/*borde inferior botones*/
+
+#fda54a10-83c9-481a-9b55-b7046d04e44c_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#ntEpjNA_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#fe06defa-5c25-4d3b-9a61-214d4c21a3ab_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#JNjXjF_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#hTBezwk_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#f2e0fd08-4561-4b88-bc51-39030b5163bd_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#rbNVq_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#JqEkHPr_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#PYmS_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#CADw_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+
+/* CenterFilter */
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
+}
+/*FILTROS OCULTOS*/
+:is(div[data-qid="NNpYMA"]) .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+
+:is(div[data-qid="NNpYMA"]) .qsc-item,
+:is(div[data-qid="NNpYMA"]) .qv-layout-spark
+{
+border: none !important;
+}
+/* multi kpi oculto */
+div[data-qid="GYWrT"] {
+    opacity: 0 !important;
+}
+#JpAKEW_content select{
+    color: #00336f;
+}
+#JpAKEW_content select *{
+    color: #00336f;
+}
+div [data-qid="JpAKEW"] .qui-select.lui-select {  
+    color: #00336f;
+    border-radius: 4px !important;
+    background-color: white !important;
+}
+/* selector hojas */
+div [data-qid="JpAKEW"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [data-qid="JpAKEW"] .qv-object{
+	border: none !important;
+}
+
+div [data-qid="JpAKEW"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [data-qid="JpAKEW"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [data-qid="JpAKEW"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [data-qid="JpAKEW"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#xfTppj_content .ng-scope button span{/*BOTON "IR"*/
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+/*borde inferior botones*/
+
+#fda54a10-83c9-481a-9b55-b7046d04e44c_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#fe06defa-5c25-4d3b-9a61-214d4c21a3ab_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#JNjXjF_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#hTBezwk_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#f2e0fd08-4561-4b88-bc51-39030b5163bd_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#rbNVq_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#JqEkHPr_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#PYmS_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#CADw_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#zhnKk_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+                                         /*Cumplimentation*/
+/* multi kpi oculto */
+div[data-qid="jCLCmg"] {
+    opacity: 0 !important;
+}
+/* selector hojas */
+div [data-qid="KCRmwH"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [data-qid="KCRmwH"] .qv-object{
+	border: none !important;
+}
+
+div [data-qid="KCRmwH"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [data-qid="KCRmwH"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [data-qid="KCRmwH"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [data-qid="KCRmwH"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#RmeBht_content .ng-scope button span{
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+
+/*Contenedores Invisible*/
+:is(div[data-qid="JcDMG"], div[data-qid="sejPdaR"], div[data-qid="dmJfrb"]) .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+
+:is(div[data-qid="JcDMG"], div[data-qid="sejPdaR"], div[data-qid="dmJfrb"]) .qsc-item,
+:is(div[data-qid="JcDMG"], div[data-qid="sejPdaR"], div[data-qid="dmJfrb"]) .qv-layout-spark
+{
+border: none !important;
+}
+
+
+/* CenterFilter */
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
+}
+/*ESTILOS BOTONES TABLAS CUMP*/
+#GTrnTRC_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+    }
+#GTrnTRC_content .ng-scope button text{
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important;
+    }
+#naCP_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+    }
+#naCP_content .ng-scope button text{
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important;
+    }
+#vkEvPh_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+    }
+#vkEvPh_content .ng-scope button text{
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important;
+    }
+/*FIN ESTILO BORONES TABLAS CUMP*/
+
+    div [data-qid="qJWxbTq"] .qv-object{
+    border: none !important;
+    }
+    
+    div [data-qid="qJWxbTq"] .qv-inner-object{
+    background-color: #f2f2f2 !important;
+    padding: 0 !important;
+    }
+    
+    div [data-qid="UnQT"] .qv-object{
+    border: none !important;
+    }
+    
+    div [data-qid="UnQT"] .qv-inner-object{
+    background-color: #f2f2f2 !important;
+    padding: 0 !important;
+    }
+    
+    div [data-qid="ujJz"] .qv-object{
+    border: none !important;
+    }
+    
+    div [data-qid="ujJz"] .qv-inner-object{
+    background-color: #f2f2f2 !important;
+    padding: 0 !important;
+    }
+
+    /*Codigo con TID*/
+    /* multi kpi oculto */
+div[tid="UYJAN"] {
+    opacity: 0 !important;
+}
+#XwPbJq_content select{
+    color: #00336f;
+}
+#XwPbJq_content select *{
+    color: #00336f;
+}
+div [tid="XwPbJq"] .qui-select.lui-select {  
+    color: #00336f;
+    border-radius: 4px !important;
+    background-color: white !important;
+}
+/* selector hojas */
+div [tid="FZDmJ"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [tid="FZDmJ"] .qv-object{
+	border: none !important;
+}
+
+div [tid="FZDmJ"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="FZDmJ"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [tid="FZDmJ"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [tid="FZDmJ"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#DHNUpK_content .ng-scope button span{
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+/*borde inferior botones*/
+
+#fqGHg_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#aZmETks_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#nWBtqF_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#mrWquj_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#xeeULE_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#kmVQVsm_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#vbNDMJ_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#KYQkTR_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#vPhpmfN_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#pdNdvX_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+/* multi kpi oculto */
+div[tid="aNnyA"] {
+    opacity: 0 !important;
+}
+#sheet-title .sheet-title-logo-img {
+    align-items: center  !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    height: 36px !important;
+    max-width: 1900px !important; 
+    overflow: hidden !important;
+}
+
+/* CenterFilter */
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
+}
+/* multi kpi oculto */
+div[tid="GYWrT"] {
+    opacity: 0 !important;
+}
+#JpAKEW_content select{
+    color: #00336f;
+}
+#JpAKEW_content select *{
+    color: #00336f;
+}
+div [tid="JpAKEW"] .qui-select.lui-select {  
+    color: #00336f;
+    border-radius: 4px !important;
+    background-color: white !important;
+}
+/* selector hojas */
+div [tid="JpAKEW"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [tid="JpAKEW"] .qv-object{
+	border: none !important;
+}
+
+div [tid="JpAKEW"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="JpAKEW"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [tid="JpAKEW"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [tid="JpAKEW"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#xfTppj_content .ng-scope button span{/*BOTON "IR"*/
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+/*borde inferior botones*/
+
+#fda54a10-83c9-481a-9b55-b7046d04e44c_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#fe06defa-5c25-4d3b-9a61-214d4c21a3ab_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#JNjXjF_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#hTBezwk_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#f2e0fd08-4561-4b88-bc51-39030b5163bd_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#rbNVq_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#JqEkHPr_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#PYmS_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#CADw_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#zhnKk_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+/* multi kpi oculto */
+div[tid="pPhc"] {
+    opacity: 0 !important;
+}
+#JpAKEW_content select{
+    color: #00336f;
+}
+#JpAKEW_content select *{
+    color: #00336f;
+}
+div [tid="JpAKEW"] .qui-select.lui-select {  
+    color: #00336f;
+    border-radius: 4px !important;
+    background-color: white !important;
+}
+/* selector hojas */
+div [tid="JpAKEW"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [tid="JpAKEW"] .qv-object{
+	border: none !important;
+}
+
+div [tid="JpAKEW"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="JpAKEW"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [tid="JpAKEW"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [tid="JpAKEW"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#xfTppj_content .ng-scope button span{/*BOTON "IR"*/
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+/*borde inferior botones*/
+
+#fda54a10-83c9-481a-9b55-b7046d04e44c_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#ntEpjNA_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#fe06defa-5c25-4d3b-9a61-214d4c21a3ab_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#JNjXjF_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#hTBezwk_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#f2e0fd08-4561-4b88-bc51-39030b5163bd_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#rbNVq_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#JqEkHPr_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#PYmS_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#CADw_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+
+
+/* CenterFilter */
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
+}
+/*FILTROS OCULTOS*/
+:is(div[tid="NNpYMA"]) .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+
+:is(div[tid="NNpYMA"]) .qsc-item,
+:is(div[tid="NNpYMA"]) .qv-layout-spark
+{
+border: none !important;
+}
+/* multi kpi oculto */
+div[tid="jCLCmg"] {
+    opacity: 0 !important;
+}
+/* selector hojas */
+div [tid="KCRmwH"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [tid="KCRmwH"] .qv-object{
+	border: none !important;
+}
+
+div [tid="KCRmwH"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="KCRmwH"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [tid="KCRmwH"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [tid="KCRmwH"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#RmeBht_content .ng-scope button span{
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+
+/*Contenedores Invisible*/
+:is(div[tid="JcDMG"], div[tid="sejPdaR"], div[tid="dmJfrb"]) .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+
+:is(div[tid="JcDMG"], div[tid="sejPdaR"], div[tid="dmJfrb"]) .qsc-item,
+:is(div[tid="JcDMG"], div[tid="sejPdaR"], div[tid="dmJfrb"]) .qv-layout-spark
+{
+border: none !important;
+}
+
+
+/* CenterFilter */
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
+}
+/*ESTILOS BOTONES TABLAS CUMP*/
+#GTrnTRC_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+    }
+#GTrnTRC_content .ng-scope button text{
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important;
+    }
+#naCP_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+    }
+#naCP_content .ng-scope button text{
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important;
+    }
+#vkEvPh_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+    }
+#vkEvPh_content .ng-scope button text{
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important;
+    }
+/*FIN ESTILO BORONES TABLAS CUMP*/

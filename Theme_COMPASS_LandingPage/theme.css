@@ -1,0 +1,44 @@
+div#grid.single-full-height >article#content{
+    background-color: #f2f2f2 !important;
+    padding: 0px 10px !important;
+}
+#grid-wrap {	
+background-image: url('LandingPage.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+background-color: #fff;
+}
+
+div[tid='pMAUG'] {
+opacity: 0 !important;
+}
+
+.qv-panel-sheet .sheet-title-container{
+background: url('BannerLandingPage.png') !important;
+background-repeat: no-repeat !important;
+background-position: center;
+background-size: contain !important;
+border-bottom: none !important;
+background-color: #fff !important;
+}
+
+div[tid='5c0e2378-3949-4ffa-8a32-bdf74aa4e5c4'] .qv-inner-object  {
+    background-color: transparent !important;
+}
+
+div[tid='FTbReY'] .qv-inner-object {
+    background-color: transparent !important;
+}
+
+.qs-container .external-bindings {
+    background-color: transparent;
+}
+
+.lui-icon--dynamic-object:before {
+    color: transparent;
+}
+
+div[tid='FTbReY'] .qv-object {
+    border: none !important;
+}

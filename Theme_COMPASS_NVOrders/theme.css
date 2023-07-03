@@ -1,0 +1,709 @@
+div#grid.single-full-height >article#content{
+    background-color: #f2f2f2 !important;
+    padding: 0px 10px !important;
+}
+/*Iveco View*/
+/* multi kpi oculto */
+div[data-qid="EBjUcX"] {
+    opacity: 0 !important;
+}
+#XwPbJq_content select{
+    color: #00336f;
+}
+#XwPbJq_content select *{
+    color: #00336f;
+}
+div [tid="XwPbJq"] .qui-select.lui-select {  
+    color: #00336f;
+    border-radius: 4px !important;
+    background-color: white !important;
+  }
+/* selector hojas */
+div [data-qid="pMEJzNP"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [data-qid="pMEJzNP"] .qv-object{
+	border: none !important;
+}
+
+div [data-qid="pMEJzNP"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [data-qid="pMEJzNP"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [data-qid="pMEJzNP"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [data-qid="pMEJzNP"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#LJjej_content .ng-scope button span{
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+/*borde inferior botones*/
+
+#mkRBb_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#DjXZmwd_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#zgjVpP_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#VtvCaw_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#bmHaeC_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#gVDqeRs_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#sKEuLP_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#JbKpQFf_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#AVjes_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#hEdFty_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#XjZMNpz_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#xenAa_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#pBeNJT_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
+}
+/*CONTENEDOR FILTRO WEEK OCULTO*/
+:is(div[data-qid="RbxSwEK"]) .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+
+:is(div[data-qid="RbxSwEK"]) .qsc-item,
+:is(div[data-qid="RbxSwEK"]) .qv-layout-spark
+{
+border: none !important;
+}
+/* multi kpi oculto */
+div[data-qid="wmsp"] {
+    opacity: 0 !important;
+}
+#sheet-title .sheet-title-logo-img {
+    align-items: center  !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    height: 36px !important;
+    max-width: 1900px !important; 
+    overflow: hidden !important;
+}
+                                        /*Dealer View*/
+/* multi kpi oculto */
+div[data-qid="cb088772-0f36-4245-a8bd-d22f2914b00c"] {
+    opacity: 0 !important;
+}
+#XwPbJq_content select{
+    color: #00336f;
+}
+#XwPbJq_content select *{
+    color: #00336f;
+}
+div [data-qid="XwPbJq"] .qui-select.lui-select {  
+    color: #00336f;
+    border-radius: 4px !important;
+    background-color: white !important;
+  }
+/* selector hojas */
+div [data-qid="ae495bcd-4350-46fa-86c9-8c034b21bfe1"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [data-qid="ae495bcd-4350-46fa-86c9-8c034b21bfe1"] .qv-object{
+	border: none !important;
+}
+
+div [data-qid="ae495bcd-4350-46fa-86c9-8c034b21bfe1"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [data-qid="ae495bcd-4350-46fa-86c9-8c034b21bfe1"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [data-qid="ae495bcd-4350-46fa-86c9-8c034b21bfe1"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [data-qid="ae495bcd-4350-46fa-86c9-8c034b21bfe1"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#PALwDkH_content .ng-scope button span{
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+/*borde inferior botones*/
+#JXymuu_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#UJkWmL_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#MhBPksK_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#mCZJU_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#XQtxaRv_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#f7033578-4be1-42ad-bda0-3a2d4b27c429_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#dff5c1b0-ed75-471a-8cab-c952e20bf4a3_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#sbTsBp_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#a103973e-c0c6-4c4f-850d-1867080dc927_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#e5e6281b-a2d7-4298-bff8-973bc93feaf4_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#PpChxY_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#e552dcac-31a3-4a50-a87f-96f3cc3cf49b_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#TtSXcu_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
+}
+/*FILTROS OCULTOS*/
+:is(div[data-qid="wRNA"]) .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+
+:is(div[data-qid="wRNA"]) .qsc-item,
+:is(div[data-qid="wRNA"]) .qv-layout-spark
+{
+border: none !important;
+}
+/* WEEK */
+:is(div[data-qid="hPjZyRm"]) .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+
+:is(div[data-qid="hPjZyRm"]) .qsc-item,
+:is(div[data-qid="hPjZyRm"]) .qv-layout-spark
+{
+border: none !important;
+}
+/* multi kpi oculto */
+div[data-qid="FEpVy"] {
+    opacity: 0 !important;
+}
+#sheet-title .sheet-title-logo-img {
+    align-items: center  !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    height: 36px !important;
+    max-width: 1900px !important; 
+    overflow: hidden !important;
+}
+                                         /*Cumplimentation*/
+/* multi kpi oculto */
+div[data-qid="XaDyM"] {
+    opacity: 0 !important;
+}
+#sheet-title .sheet-title-logo-img {
+    align-items: center  !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    height: 36px !important;
+    max-width: 1900px !important; 
+    overflow: hidden !important;
+}
+
+/* multi kpi oculto */
+div[data-qid="cWTLKR"] {
+    opacity: 0 !important;
+}
+
+/* selector hojas */
+div [data-qid="JXRdJJw"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [data-qid="JXRdJJw"] .qv-object{
+	border: none !important;
+}
+
+div [data-qid="JXRdJJw"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [data-qid="JXRdJJw"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [data-qid="JXRdJJw"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [data-qid="JXRdJJw"] select *{
+    color: #00336f;
+}
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
+}
+/*Contenedores Invisible*/
+:is(div[data-qid="VXapfJ"], div[data-qid="gmMjDh"], div[data-qid="grbjJ"]) .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+
+:is(div[data-qid="VXapfJ"], div[data-qid="gmMjDh"], div[data-qid="grbjJ"]) .qsc-item,
+:is(div[data-qid="VXapfJ"], div[data-qid="gmMjDh"], div[data-qid="grbjJ"]) .qv-layout-spark
+{
+border: none !important;
+}
+/* #XwPbJq_content select{
+    color: #00336f;
+}
+#XwPbJq_content select *{
+    color: #00336f;
+}
+div [tid="XwPbJq"] .qui-select.lui-select {  
+    color: #00336f;
+    border-radius: 4px !important;
+    background-color: white !important;
+  } */
+/*ESTILOS BOTONES TABLAS CUMP*/
+#TZmp_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+    }
+#TZmp_content .ng-scope button text{
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important;
+    }
+#eLJAH_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+    }
+#eLJAH_content .ng-scope button text{
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important;
+    }
+#GPjJec_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+    }
+#GPjJec_content .ng-scope button text{
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important;
+    }
+/*FIN ESTILO BORONES TABLAS CUMP*/
+
+div [data-qid="mMpnyGX"] .qv-object{
+    border: none !important;
+    }
+    
+    div [data-qid="mMpnyGX"] .qv-inner-object{
+    background-color: #f2f2f2 !important;
+    padding: 0 !important;
+    }
+    
+    div [data-qid="rkQLmU"] .qv-object{
+    border: none !important;
+    }
+    
+    div [data-qid="rkQLmU"] .qv-inner-object{
+    background-color: #f2f2f2 !important;
+    padding: 0 !important;
+    }
+    
+    div [data-qid="jFLJUZ"] .qv-object{
+    border: none !important;
+    }
+    
+    div [data-qid="jFLJUZ"] .qv-inner-object{
+    background-color: #f2f2f2 !important;
+    padding: 0 !important;
+    }
+    
+    /*Codigo con TID*/
+    /* multi kpi oculto */
+div[tid="EBjUcX"] {
+    opacity: 0 !important;
+}
+#XwPbJq_content select{
+    color: #00336f;
+}
+#XwPbJq_content select *{
+    color: #00336f;
+}
+div [tid="XwPbJq"] .qui-select.lui-select {  
+    color: #00336f;
+    border-radius: 4px !important;
+    background-color: white !important;
+  }
+/* selector hojas */
+div [tid="pMEJzNP"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [tid="pMEJzNP"] .qv-object{
+	border: none !important;
+}
+
+div [tid="pMEJzNP"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="pMEJzNP"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [tid="pMEJzNP"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [tid="pMEJzNP"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#LJjej_content .ng-scope button span{
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+/*borde inferior botones*/
+
+#mkRBb_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#DjXZmwd_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#zgjVpP_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#VtvCaw_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#bmHaeC_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#gVDqeRs_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#sKEuLP_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#JbKpQFf_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#AVjes_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#hEdFty_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#XjZMNpz_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#xenAa_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#pBeNJT_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
+}
+/*CONTENEDOR FILTRO WEEK OCULTO*/
+:is(div[tid="RbxSwEK"]) .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+
+:is(div[tid="RbxSwEK"]) .qsc-item,
+:is(div[tid="RbxSwEK"]) .qv-layout-spark
+{
+border: none !important;
+}
+/* multi kpi oculto */
+div[tid="wmsp"] {
+    opacity: 0 !important;
+}
+#sheet-title .sheet-title-logo-img {
+    align-items: center  !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    height: 36px !important;
+    max-width: 1900px !important; 
+    overflow: hidden !important;
+}
+/* multi kpi oculto */
+div[tid="cb088772-0f36-4245-a8bd-d22f2914b00c"] {
+    opacity: 0 !important;
+}
+#XwPbJq_content select{
+    color: #00336f;
+}
+#XwPbJq_content select *{
+    color: #00336f;
+}
+div [tid="XwPbJq"] .qui-select.lui-select {  
+    color: #00336f;
+    border-radius: 4px !important;
+    background-color: white !important;
+  }
+/* selector hojas */
+div [tid="ae495bcd-4350-46fa-86c9-8c034b21bfe1"] .qv-object .qv-inner-object{
+	background-color: #f2f2f2 !important;
+	padding-left: 0px !important;
+}
+
+div [tid="ae495bcd-4350-46fa-86c9-8c034b21bfe1"] .qv-object{
+	border: none !important;
+}
+
+div [tid="ae495bcd-4350-46fa-86c9-8c034b21bfe1"] .qv-object .qv-object-content{
+    margin-top:-5px;
+}
+div [tid="ae495bcd-4350-46fa-86c9-8c034b21bfe1"] .qv-object .qv-object-content-container{
+	position: unset !important;
+	height: 100% !important;
+}
+div [tid="ae495bcd-4350-46fa-86c9-8c034b21bfe1"] .qui-select.lui-select {  
+  color: #00336f;
+  border: 2px solid rgb(38 160 167 / 50%) !important;
+  border-radius: 4px !important;
+  background-color: rgb(38 161 167/ 33%) !important;
+}
+div [tid="ae495bcd-4350-46fa-86c9-8c034b21bfe1"] select *{
+    color: #00336f;
+}
+/* botones hoja */
+#PALwDkH_content .ng-scope button span{
+    color:white !important;
+}
+div.qv-inner-object.no-titles button *{
+    color: #00336f !important;
+    font-family: icons,Helvetica Neue,Arial,Helvetica,sans-serif !important; 
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: 1em !important;
+}
+/*borde inferior botones*/
+#JXymuu_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#UJkWmL_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#MhBPksK_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#mCZJU_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#XQtxaRv_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#f7033578-4be1-42ad-bda0-3a2d4b27c429_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#dff5c1b0-ed75-471a-8cab-c952e20bf4a3_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#sbTsBp_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#a103973e-c0c6-4c4f-850d-1867080dc927_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#e5e6281b-a2d7-4298-bff8-973bc93feaf4_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#PpChxY_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#e552dcac-31a3-4a50-a87f-96f3cc3cf49b_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+#TtSXcu_content .ng-scope button{
+    border: none !important;
+    border-bottom: 2.5px solid #00336F !important;
+}
+.qv-collapsed-listbox .title-wrapper .title {
+    text-align: center;
+}
+/*FILTROS OCULTOS*/
+:is(div[tid="wRNA"]) .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+
+:is(div[tid="wRNA"]) .qsc-item,
+:is(div[tid="wRNA"]) .qv-layout-spark
+{
+border: none !important;
+}
+/* WEEK */
+:is(div[tid="hPjZyRm"]) .qv-inner-object
+{
+padding:0 !important;
+background: none  !important;
+padding: none !important;
+margin-bottom: -1px !important
+}
+
+:is(div[tid="hPjZyRm"]) .qsc-item,
+:is(div[tid="hPjZyRm"]) .qv-layout-spark
+{
+border: none !important;
+}
+/* multi kpi oculto */
+div[tid="FEpVy"] {
+    opacity: 0 !important;
+}
+#sheet-title .sheet-title-logo-img {
+    align-items: center  !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    height: 36px !important;
+    max-width: 1900px !important; 
+    overflow: hidden !important;
+}
+/* multi kpi oculto */
+div[tid="XaDyM"] {
+    opacity: 0 !important;
+}
+#sheet-title .sheet-title-logo-img {
+    align-items: center  !important;
+    display: flex !important;
+    flex: 0 0 auto !important;
+    height: 36px !important;
+    max-width: 1900px !important; 
+    overflow: hidden !important;
+}
